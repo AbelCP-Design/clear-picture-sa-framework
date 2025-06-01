@@ -1,20 +1,27 @@
 // See https://observablehq.com/framework/config for documentation.
 export default {
   // The app’s title; used in the sidebar and webpage titles.
-  title: "clear-picture-framework",
+  title: "Clear Picture Framework",
+  description: "Helping industrial teams build displays that show what matters, when it matters.",
 
-  // The pages and sections in the sidebar. If you don’t specify this option,
-  // all pages will be listed in alphabetical order. Listing pages explicitly
-  // lets you organize them into sections and have unlisted pages.
-  // pages: [
-  //   {
-  //     name: "Examples",
-  //     pages: [
-  //       {name: "Dashboard", path: "/example-dashboard"},
-  //       {name: "Report", path: "/example-report"}
-  //     ]
-  //   }
-  // ],
+pages: [
+    { name: "Home", path: "index" },
+    { name: "SA Principles", pages: [
+      { name: "Overview", path: "sa-principles/index" },
+      { name: "Information Timeliness", path: "sa-principles/information-timeliness" }      
+    ]},
+    { name: "SA Principles Support", path: "platform-support/sa-principles-support" },   
+    { name: "Design Approach", pages: [
+      { name: "Introduction", path: "design-approach/introduction" },
+      { name: "Methodology", path: "design-approach/methodology" },
+      { name: "Vendor Participation & Feedback", path: "design-approach/vendor-participation" }
+    ]},
+    { name: "About", pages: [
+      { name: "Clear Picture", path: "about/index" },
+      { name: "Team", path: "about/team/index" },
+      { name: "Abel Padilla", path: "about/team/abel-padilla" }
+    ]},
+  ],
 
   // Content to add to the head of the page, e.g. for a favicon:
   head: '<link rel="icon" href="observable.png" type="image/png" sizes="32x32">',

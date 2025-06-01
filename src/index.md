@@ -1,5 +1,11 @@
-# clear-picture-framework
+# Clear Picture
 
-This is the home page of your new Observable Framework app.
+Helping industrial teams design better dashboards — showing the right information, at the right time, for better decisions.
 
-For more, see <https://observablehq.com/framework/getting-started>.
+Clear Picture documents Situation Awareness (SA) design principles and evaluates how industrial visualization platforms support these critical patterns.
+
+- Learn the [SA Principles](sa-principles/index).
+- See [Platform Support](platform-support/sa-principles-support).
+- Explore our [Design Approach](design-approach/introduction).
+
+
