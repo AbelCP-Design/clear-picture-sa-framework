@@ -1,4 +1,4 @@
-# clear-picture-framework
+# Clear Picture SA — Industrial Visualization Framework
 
 This is an [Observable Framework](https://observablehq.com/framework/) app. To install the required dependencies, run:
 

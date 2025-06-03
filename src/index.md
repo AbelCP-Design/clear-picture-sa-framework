@@ -1,4 +1,4 @@
-# Clear Picture
+# Clear Picture SA
 
 Helping industrial teams design better dashboards — showing the right information, at the right time, for better decisions.
 

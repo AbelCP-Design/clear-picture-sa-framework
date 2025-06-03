@@ -1,4 +1,5 @@
 {
+  "name": "clear-picture-sa-framework",
   "type": "module",
   "private": true,
   "scripts": {
