@@ -1,7 +1,7 @@
 // See https://observablehq.com/framework/config for documentation.
 export default {
   // The app’s title; used in the sidebar and webpage titles.
-  title: "Clear Picture SA",
+  title: "Clear Picture SA Framework",
   description: "Helping industrial teams build displays that show what matters, when it matters  — using Situation Awareness (SA) design principles.",
 
 pages: [
