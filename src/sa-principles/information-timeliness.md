@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="../images/Information Timeliness Infograhic.png" alt="Information Timeliness Infographic" width="80%" />
+  <img src="../images/informationtimeliness_infograhic.PNG" alt="Information Timeliness Infographic" width="80%" />
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
@@ -41,7 +41,7 @@
 > In air traffic control, aircraft symbols often dim gradually if no radar sweep refreshes the aircraft’s position, providing an immediate visual cue of data aging.
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="../images/information-timeliness-radar.png" alt="Radar Refresh Example" width="20%" />
+  <img src="../images/information-timeliness-radar.PNG" alt="Radar Refresh Example" width="20%" />
 </div>
 
 </div>
@@ -77,9 +77,9 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 | **Resulting Visualization** | See screenshots below. |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
-  <img src="../images/InformationTimeliness_FrameworX.png" width="80%" style="margin-bottom: 30px;" />
+  <img src="../images/informationtimeliness_frameworX.PNG" width="80%" style="margin-bottom: 30px;" />
 
-  <img src="../images/InformationTimeliness_FrameworX_2.png" width="60%" />
+  <img src="../images/informationtimeliness_frameworX_2.PNG" width="60%" />
 </div>
 
 <span style="display:block; height:1.0px;"></span>
