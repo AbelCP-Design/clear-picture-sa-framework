@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="../images/informationtimeliness_infograhic.PNG" alt="Information Timeliness Infographic" width="80%" />
+  <img src="../images/informationtimeliness_infograhic_2.PNG" alt="Information Timeliness Infographic" width="80%" />
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
