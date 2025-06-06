@@ -27,7 +27,7 @@
 - **Desaturation:** Colors shift toward grayscale with time since last update.
 - **Countdown timers:** Textual or graphical age indicators.
 - **Halo decay:** Glows or edge highlights diminish as time passes.
-- **Last updated timestamp:** Display of data freshness (less effective for fast visual scan).
+- **Last updated timestamp:** Display of data freshness (less effective for fast visual scan) .
 
 </div>
 
