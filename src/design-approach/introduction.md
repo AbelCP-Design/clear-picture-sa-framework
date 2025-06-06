@@ -1,11 +1,37 @@
-# Introduction
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05); text-align: center;">
+  <div style="max-width: 600px; margin: 0 auto;">
+    <h1 style="margin-bottom: 20px;">Introduction</h1>
+    <p>A structured design framework to evaluate industrial visualization software using Situation Awareness (SA) Design Principles.</p>
+  </div>
+</div>
 
-Clear Picture provides a structured design framework for evaluating industrial visualization software based on Situation Awareness (SA) Design Principles.
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <h3 style="margin-bottom: 15px;">The Problem</h3>
 
-Many industrial platforms promote technical features, but few evaluate how effectively a tool supports human operators in understanding their process, making timely decisions, and maintaining awareness in real-world scenarios.
+  Many industrial platforms promote technical features — but few ask:
 
-Clear Picture serves two goals:  
-- To transparently document which platforms support essential SA Design Principles, helping vendors and buyers evaluate software capabilities.
-- To provide a clear reference of SA Design Principles that designers and integrators can apply directly in building more effective dashboards.
+  <div style="margin-top: 15px;"><b>Does this help users truly see what’s happening?</b></div>
+  <ul>
+    <li>Can operators perceive situations quickly?</li>
+    <li>Can engineers make timely decisions?</li>
+    <li>Can teams maintain awareness in complex, shifting processes?</li>
+  </ul>
 
-The outcome is a neutral, evidence-based resource supporting better visualization design across the industrial landscape.
+  When tools fail to support human cognition, critical information gets missed.
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <h3 style="margin-bottom: 15px;">What Clear Picture SA Provides</h3>
+
+  <ul>
+    <li>A neutral framework to evaluate how platforms support SA Design Principles.</li>
+    <li>A reference for vendors and buyers to understand visualization capabilities.</li>
+    <li>Practical design patterns that integrators can apply directly when building dashboards.</li>
+  </ul>
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <h3 style="margin-bottom: 15px;">The Goal</h3>
+
+  Clear Picture SA is an evidence-based resource — built to support better industrial visualization design, grounded in real-world testing, vendor collaboration, and proven Situation Awareness research.
+</div>

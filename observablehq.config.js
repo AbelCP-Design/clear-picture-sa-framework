@@ -1,7 +1,7 @@
 // See https://observablehq.com/framework/config for documentation.
 export default {
   // The app’s title; used in the sidebar and webpage titles.
-  title: "Clear Picture SA Framework",
+  title: "Clear Picture SA",
   description: "Helping industrial teams build displays that show what matters, when it matters  — using Situation Awareness (SA) design principles.",
 
 pages: [
@@ -9,6 +9,8 @@ pages: [
     { name: "SA Principles", pages: [
       { name: "Overview", path: "sa-principles/index" },
       { name: "Information Timeliness", path: "sa-principles/information-timeliness" }      
+      // { name: "Pattern Recognition", path: "sa-principles/pattern-recognition" },
+      // { name: "Uncertainty Representation", path: "sa-principles/uncertainty-representation" }
     ]},
     { name: "SA Principles Support", path: "platform-support/sa-principles-support" },   
     { name: "Design Approach", pages: [
@@ -17,7 +19,7 @@ pages: [
       { name: "Vendor Participation & Feedback", path: "design-approach/vendor-participation" }
     ]},
     { name: "About", pages: [
-      { name: "Clear Picture", path: "about/index" },
+      { name: "Clear Picture SA", path: "about/index" },
       { name: "Team", path: "about/team/index" },
       { name: "Abel Padilla", path: "about/team/abel-padilla" }
     ]},
