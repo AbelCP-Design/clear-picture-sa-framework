@@ -1,5 +1,6 @@
 // See https://observablehq.com/framework/config for documentation.
 export default {
+  cleanUrls: true,
   // The app’s title; used in the sidebar and webpage titles.
   title: "Clear Picture SA",
   description: "Helping industrial teams build displays that show what matters, when it matters  — using Situation Awareness (SA) design principles.",
