@@ -44,4 +44,7 @@ pages: [
   // typographer: false, // smart quotes and other typographic improvements
   // preserveExtension: false, // drop .html from URLs
   // preserveIndex: false, // drop /index from URLs
+    build: {
+    outdir: "dist"
+  }
 };
