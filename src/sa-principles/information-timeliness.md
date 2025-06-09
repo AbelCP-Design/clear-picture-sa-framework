@@ -11,6 +11,7 @@
 - In dynamic industrial environments, older data becomes less trustworthy as time passes.
 - Operators may not naturally notice missing updates if stale data looks the same as fresh data.
 - Subtle time-based visual cues prevent silent degradation of the operator's Situation Awareness.
+
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
