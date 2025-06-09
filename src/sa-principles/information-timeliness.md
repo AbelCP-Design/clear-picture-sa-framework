@@ -19,17 +19,17 @@
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 
-### Operational Impact
+### Operational Impact Examples
 
 <span style="display:block; height:0.0px;"></span>
 
-Without visible aging cues, stale data may be assumed current — leading to delayed or incorrect actions.
+Missed signs of stale data can have real-world consequences:
 
-- A compressor station stops reporting and is no longer compressing gas.
-- The screen still shows the last-known values, with no visible sign of staleness.
-- The operator continues assuming normal conditions while pressure rises downstream.
+- A **compressor station** stops reporting data, but appears "normal" on screen. Pressures continue rising downstream unnoticed, risking equipment stress or failure.
+- An **alarm system** fails to update, and operators believe an issue has been resolved — when in fact no update has arrived in 10 minutes.
+- A **batch process** shows frozen sensor values — leading to delayed intervention, lost product, or safety events.
 
-This delay in awareness could lead to unsafe conditions, unplanned shutdowns, or lost production.
+When operators trust data that is silently outdated, awareness breaks down — and small issues can escalate into serious problems.
 
 </div>
 
