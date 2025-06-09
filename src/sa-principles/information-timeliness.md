@@ -12,9 +12,6 @@
 - Operators may not naturally notice missing updates if stale data looks the same as fresh data.
 - Subtle time-based visual cues prevent silent degradation of the operator's Situation Awareness.
 
-> As Endsley notes in *Designing for SA*:  
-> “Without representation of timeliness, people may fail at the early stages of SA, never progressing to comprehension or projection.”
-
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
@@ -23,13 +20,16 @@
 
 <span style="display:block; height:0.0px;"></span>
 
-Missed signs of stale data can have real-world consequences:
+- **Missed update in compressor station status:**  
+  If a compressor stops and the symbol appears normal, operators may fail to act before pressure rises to unsafe levels.
 
-- A **compressor station** stops reporting data, but appears "normal" on screen. Pressures continue rising downstream unnoticed, risking equipment stress or failure.
-- An **alarm system** fails to update, and operators believe an issue has been resolved — when in fact no update has arrived in 10 minutes.
-- A **batch process** shows frozen sensor values — leading to delayed intervention, lost product, or safety events.
+- **Sensor disconnection during a chemical batch process:**  
+  Outdated temperature data could give a false impression that a reaction is on track, risking off-spec product or safety issues.
 
-When operators trust data that is silently outdated, awareness breaks down — and small issues can escalate into serious problems.
+- **Outdated flowmeter reading in water treatment:**  
+  Operators might assume flow is continuous when it’s not, delaying detection of a blockage or pump failure.
+
+> Visualizing data aging directly contributes to timely human intervention — a core requirement in process safety and product quality.
 
 </div>
 
@@ -54,7 +54,7 @@ When operators trust data that is silently outdated, awareness breaks down — a
 <span style="display:block; height:0.0px;"></span>
 
 > **Radar Displays:**  
-> In air traffic control, aircraft symbols often dim gradually if no radar sweep refreshes the aircraft’s position — providing an immediate visual cue of data aging.
+> In air traffic control, aircraft symbols often dim gradually if no radar sweep refreshes the aircraft’s position, providing an immediate visual cue of data aging.
 
 <div style="text-align: center; margin-top: 20px;">
   <img src="../images/information_timeliness_radar.PNG" alt="Radar Refresh Example" width="20%" />
@@ -68,12 +68,12 @@ When operators trust data that is silently outdated, awareness breaks down — a
 
 <span style="display:block; height:0.0px;"></span>
 
-Consider a pipeline network dashboard where equipment symbols fade if no update has been received in 5 minutes:
+Consider a pipeline network monitoring dashboard where equipment symbols fade if no update has been received in 5 minutes:
 
 - A compressor station icon maintains full color if data is recent.
-- If no update arrives after X minutes, the icon fades toward 80% opacity.
-- This immediately signals possible stale or disconnected data.
-- When a new update arrives, full opacity is restored automatically.
+- If no update arrives after X amount of time, the icon fades toward 80% opacity.
+- This immediately signals attention to possible stale or disconnected data.
+- Upon receiving a new update, the full opacity is restored automatically.
 
 </div>
 
@@ -84,7 +84,7 @@ Consider a pipeline network dashboard where equipment symbols fade if no update 
 <span style="display:block; height:0.0px;"></span>
 
 #### ✅ FrameworX — Supports Information Timeliness
-
+<span style="display:block; height:0.0px;"></span>  
 | Aspect | Notes |
 | ------ | ----- |
 | **Test Status** | Completed |
@@ -97,9 +97,13 @@ Consider a pipeline network dashboard where equipment symbols fade if no update 
   <img src="../images/information_timeliness_frameworx_2.PNG" width="60%" />
 </div>
 
+<span style="display:block; height:1.0px;"></span>
+
 #### Upcoming Vendor Testing
 
 - AVEVA PI Vision
+
+<span style="display:block; height:0.0px;"></span>
 
 <span style="font-size: 0.85em;">Full capability matrix available: [SA Principles Support](../platform-support/sa-principles-support)</span>
 
