@@ -1,5 +1,5 @@
 {
   "buildCommand": "npx observable build",
-  "outputDirectory": ".observable/dist",
+  "outputDirectory": "observable/dist",
   "cleanUrls": true
 }
