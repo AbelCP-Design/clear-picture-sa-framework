@@ -19,6 +19,22 @@
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 
+### Operational Impact
+
+<span style="display:block; height:0.0px;"></span>
+
+Without visible aging cues, stale data may be assumed current — leading to delayed or incorrect actions.
+
+- A compressor station stops reporting and is no longer compressing gas.
+- The screen still shows the last-known values, with no visible sign of staleness.
+- The operator continues assuming normal conditions while pressure rises downstream.
+
+This delay in awareness could lead to unsafe conditions, unplanned shutdowns, or lost production.
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+
 ### Typical Design Techniques
 
 <span style="display:block; height:0.0px;"></span>
@@ -27,7 +43,7 @@
 - **Desaturation:** Colors shift toward grayscale with time since last update.
 - **Countdown timers:** Textual or graphical age indicators.
 - **Halo decay:** Glows or edge highlights diminish as time passes.
-- **Last updated timestamp:** Display of data freshness (less effective for fast visual scan) .
+- **Last updated timestamp:** Display of data freshness (less effective for fast visual scan).
 
 </div>
 
@@ -38,7 +54,7 @@
 <span style="display:block; height:0.0px;"></span>
 
 > **Radar Displays:**  
-> In air traffic control, aircraft symbols often dim gradually if no radar sweep refreshes the aircraft’s position, providing an immediate visual cue of data aging.
+> In air traffic control, aircraft symbols often dim gradually if no radar sweep refreshes the aircraft’s position — providing an immediate visual cue of data aging.
 
 <div style="text-align: center; margin-top: 20px;">
   <img src="../images/information_timeliness_radar.PNG" alt="Radar Refresh Example" width="20%" />
@@ -52,12 +68,12 @@
 
 <span style="display:block; height:0.0px;"></span>
 
-Consider a pipeline network monitoring dashboard where equipment symbols fade if no update has been received in 5 minutes:
+Consider a pipeline network dashboard where equipment symbols fade if no update has been received in 5 minutes:
 
 - A compressor station icon maintains full color if data is recent.
-- If no update arrives after X amount of time, the icon fades toward 80% opacity.
-- This immediately signals attention to possible stale or disconnected data.
-- Upon receiving a new update, the full opacity is restored automatically.
+- If no update arrives after X minutes, the icon fades toward 80% opacity.
+- This immediately signals possible stale or disconnected data.
+- When a new update arrives, full opacity is restored automatically.
 
 </div>
 
@@ -68,7 +84,7 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 <span style="display:block; height:0.0px;"></span>
 
 #### ✅ FrameworX — Supports Information Timeliness
-<span style="display:block; height:0.0px;"></span>  
+
 | Aspect | Notes |
 | ------ | ----- |
 | **Test Status** | Completed |
@@ -78,17 +94,12 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
   <img src="../images/information_timeliness_frameworx.PNG" width="80%" style="margin-bottom: 30px;" />
-
   <img src="../images/information_timeliness_frameworx_2.PNG" width="60%" />
 </div>
-
-<span style="display:block; height:1.0px;"></span>
 
 #### Upcoming Vendor Testing
 
 - AVEVA PI Vision
-
-<span style="display:block; height:0.0px;"></span>
 
 <span style="font-size: 0.85em;">Full capability matrix available: [SA Principles Support](../platform-support/sa-principles-support)</span>
 
