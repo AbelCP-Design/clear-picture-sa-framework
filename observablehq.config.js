@@ -12,12 +12,13 @@ pages: [
       // { name: "Pattern Recognition", path: "sa-principles/pattern-recognition" },
       // { name: "Uncertainty Representation", path: "sa-principles/uncertainty-representation" }
     ]},
-    { name: "SA Principles Support", path: "platform-support/sa-principles-support" },   
+    { name: "Vendor Capability Listing", path: "platform-support/vendor-capability-listing" },   
     { name: "Design Approach", pages: [
       { name: "Introduction", path: "design-approach/introduction" },
       { name: "Methodology", path: "design-approach/methodology" },
       { name: "Vendor Participation & Feedback", path: "design-approach/vendor-participation" }
     ]},
+    { name: "References", path: "references/index" },  
     { name: "About", pages: [
       { name: "Clear Picture SA", path: "about/index" },
       { name: "Team", path: "about/team/index" },

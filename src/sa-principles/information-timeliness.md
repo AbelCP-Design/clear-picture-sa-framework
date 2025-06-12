@@ -56,7 +56,7 @@
 > In air traffic control, aircraft symbols often dim gradually if no radar sweep refreshes the aircraft’s position, providing an immediate visual cue of data aging.
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="../images/information_timeliness_radar.PNG" alt="Radar Refresh Example" width="20%" />
+  <img src="../images/information_timeliness_radar.PNG" alt="Radar Refresh Example" width="30%" />
 </div>
 
 </div>
