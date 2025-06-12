@@ -1,6 +1,6 @@
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05); text-align: center;">
   <div style="max-width: 600px; margin: 0 auto;">
-    <h1 style="margin-bottom: 20px;">SA Principles Support</h1>
+    <h1 style="margin-bottom: 20px;">SA Vendor Listing</h1>
     <p>Which platforms support which SA principles — verified through practical testing.</p>
   </div>
 </div>

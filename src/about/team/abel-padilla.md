@@ -40,7 +40,7 @@
     <li>Mexican Food</li>
     <li>Cycling and walking in nature</li>
     <li>Exploring design and visual storytelling</li>
-    <li>Studying Japanese aesthetics such as Wabi-Sabi</li>
+    <li>Interested in the Japanese aesthetic Wabi-Sabi</li>
     <li>Spending time in coffee shops</li>
   </ul>
 

@@ -12,7 +12,7 @@ pages: [
       // { name: "Pattern Recognition", path: "sa-principles/pattern-recognition" },
       // { name: "Uncertainty Representation", path: "sa-principles/uncertainty-representation" }
     ]},
-    { name: "Vendor Capability Listing", path: "platform-support/vendor-capability-listing" },   
+    { name: "SA Vendor Listing", path: "platform-support/sa-vendor-listing" },   
     { name: "Design Approach", pages: [
       { name: "Introduction", path: "design-approach/introduction" },
       { name: "Methodology", path: "design-approach/methodology" },
