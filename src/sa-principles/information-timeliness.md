@@ -104,6 +104,6 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 
 <span style="display:block; height:0.0px;"></span>
 
-<span style="font-size: 0.85em;">Full capability matrix available: [SA Principles Support](../platform-support/sa-principles-support)</span>
+<span style="font-size: 0.85em;">Full capability matrix available: [Vendor Capability Listing](../platform-support/vendor-capability-listing)</span>
 
 </div>
