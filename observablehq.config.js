@@ -18,7 +18,7 @@ pages: [
       { name: "Methodology", path: "design-approach/methodology" },
       { name: "Vendor Participation & Feedback", path: "design-approach/vendor-participation" }
     ]},
-    { name: "References", path: "references/index" },  
+    //{ name: "References", path: "references/index" },  
     { name: "About", pages: [
       { name: "Clear Picture SA", path: "about/index" },
       { name: "Team", path: "about/team/index" },
