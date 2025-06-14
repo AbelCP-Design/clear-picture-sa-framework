@@ -11,6 +11,9 @@
   <p>Each principle addresses a specific design challenge that affects operators, engineers, and teams as they monitor and respond to real-time process information.</p>
 
   <p>The Clear Picture SA framework evolves as new principles emerge through real-world testing, research, and practical implementation experience.</p>
+
+  <p>The framework draws from established Situation Awareness (SA) models originally developed in aviation, military, and healthcare — fields where real-time operational decisions require clear perception, comprehension, and projection. Clear Picture SA adapts these principles to the context of industrial operations and process monitoring.</p>
+  
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
