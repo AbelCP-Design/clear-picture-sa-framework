@@ -78,7 +78,7 @@
 > Similarly, dashboards should make deviation just as visible — including how far off the process is and for how long.
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="../images/deviation_altitude_tape_PFD.PNG" alt="Altitude Tape Analogy" width="40%" />
+  <img src="../images/deviation_altitude_tape_PFD.png" alt="Altitude Tape Analogy" width="40%" />
 </div>
 
 </div>
