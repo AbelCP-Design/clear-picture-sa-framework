@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="../images/deviation_infographic.png" alt="Deviation Infographic" width="60%" />
+  <img src="../images/deviation_infographic.PNG" alt="Deviation Infographic" width="60%" />
   <div style="font-size: 0.9em; color: #888; text-align: center; margin-top: 10px; margin-bottom: 20px;">
     SA Level 2 — Comprehension
   </div>
@@ -78,7 +78,7 @@
 > Similarly, dashboards should make deviation just as visible — including how far off the process is and for how long.
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="../images/deviation_altitude_tape.png" alt="Altitude Tape Analogy" width="40%" />
+  <img src="../images/deviation_altitude_tape.PNG" alt="Altitude Tape Analogy" width="40%" />
 </div>
 
 </div>
