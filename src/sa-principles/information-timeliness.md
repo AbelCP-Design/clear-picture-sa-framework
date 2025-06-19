@@ -1,5 +1,8 @@
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="../images/information_timeliness_infographic.PNG" alt="Information Timeliness Infographic" width="80%" />
+  <div style="font-size: 0.9em; color: #888; text-align: center; margin-top: 10px; margin-bottom: 20px;">
+    SA Level 1 — Perception
+  </div>
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
@@ -100,10 +103,10 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 
 #### Upcoming Vendor Testing
 
-- AVEVA PI Vision
+- Aveva PI System
+- Inductive Automation Ignition
+</div>
 
-<span style="display:block; height:0.0px;"></span>
-
-<span style="font-size: 0.85em;">Full vendor SA support matrix available: [SA Vendor Listing](../platform-support/sa-vendor-listing)</span>
-
+<div style="margin-top: 40px; font-size: 0.9em; color: #666;">
+See which platforms have been tested for each SA principle in the <a href="../platform-support/sa-vendor-listing" style="text-decoration: none;">SA Vendor Listing</a>.
 </div>

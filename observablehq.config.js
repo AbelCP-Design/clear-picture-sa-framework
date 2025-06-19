@@ -8,8 +8,8 @@ pages: [
     { name: "Home", path: "index" },
     { name: "SA Principles", pages: [
       { name: "Overview", path: "sa-principles/index" },
-      { name: "Information Timeliness", path: "sa-principles/information-timeliness" }      
-      // { name: "Pattern Recognition", path: "sa-principles/pattern-recognition" },
+      { name: "Information Timeliness", path: "sa-principles/information-timeliness" },      
+      { name: "Deviation", path: "sa-principles/deviation" }
       // { name: "Uncertainty Representation", path: "sa-principles/uncertainty-representation" }
     ]},
     { name: "SA Vendor Listing", path: "platform-support/sa-vendor-listing" },   

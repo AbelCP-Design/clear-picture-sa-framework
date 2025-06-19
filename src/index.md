@@ -22,7 +22,7 @@
     <ul style="list-style: none; padding-left: 0;">
   <ul style="list-style: none; padding-left: 0;">
     <li><a href="sa-principles/index">SA Principles</a> — Learn the core design patterns.</li>
-    <li><a href="platform-support/sa-principles-support">Platform Support</a> — See which platforms have been tested.</li>
+    <li><a href="platform-support/sa-vendor-listing">Platform Support</a> — See which platforms have been tested.</li>
     <li><a href="design-approach/introduction">Design Approach</a> — Understand how principles are tested.</li>
   </ul>
 </div>

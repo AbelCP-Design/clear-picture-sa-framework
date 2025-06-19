@@ -14,21 +14,21 @@ The matrix below summarizes which platforms have been tested for each SA princip
 <div style="height:0.0px;"></div>
 
 **Legend:**  
-<span style="font-size: 0.85em;">✅ - Principle successfully tested and supported on platform</span>  
-<span style="font-size: 0.85em;">⬜ - Principle pending evaluation on platform</span>
+<span style="font-size: 0.85em;">✅ – Principle successfully tested and supported on platform</span>  
+<span style="font-size: 0.85em;">⬜ – Principle pending evaluation on platform</span>
 
 <div style="height:10px;"></div>
 
 | SA Principle | FrameworX | Ignition | IOTA Vue | PI Vision |
 | --- | --- | --- | --- | --- |
 | [Information Timeliness](../sa-principles/information-timeliness) | ✅ | ⬜ | ⬜ | ⬜ |
-| [Other Principles] | ⬜ | ⬜ | ⬜ | ⬜ |
+| [Deviation](../sa-principles/deviation) | ⬜ | ⬜ | ⬜ | ⬜ |
 
 <div style="height:10px;"></div>
 
-<span style="font-size: 0.85em;">Note: This is an ongoing testing and documentation effort. Additional principles and platforms will be added.</span>
-
+<div style="font-size: 0.85em; margin-top: 10px;">
+  <strong>Note:</strong><br>
+  This is an ongoing testing and documentation effort. Additional principles and platforms will be added.
 </div>
 
-
-
+</div>
