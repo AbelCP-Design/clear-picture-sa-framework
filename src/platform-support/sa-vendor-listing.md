@@ -20,15 +20,16 @@ The matrix below summarizes which platforms have been tested for each SA princip
 <div style="height:10px;"></div>
 
 | SA Principle | FrameworX | Ignition | IOTA Vue | PI Vision |
-| --- | --- | --- | --- | --- |
-| [Information Timeliness](../sa-principles/information-timeliness) | ✅ | ⬜ | ⬜ | ⬜ |
+|--------------|-----------|----------|----------|-----------|
+| [Information Timeliness](../sa-principles/information-timeliness) | ✅ | ✅ | ⬜ | ⬜ |
 | [Deviation](../sa-principles/deviation) | ⬜ | ⬜ | ⬜ | ⬜ |
 
 <div style="height:10px;"></div>
 
 <div style="font-size: 0.85em; margin-top: 10px;">
-  <strong>Note:</strong><br>
-  This is an ongoing testing and documentation effort. Additional principles and platforms will be added.
+  <strong>Notes:</strong><br>
+  - This is an ongoing testing and documentation effort. Additional principles and platforms will be added.<br>
+  - “Ignition” refers to the Perspective module unless otherwise specified.
 </div>
 
 </div>
