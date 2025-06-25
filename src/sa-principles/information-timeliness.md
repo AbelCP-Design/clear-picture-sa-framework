@@ -14,6 +14,7 @@
 - In dynamic industrial environments, older data becomes less trustworthy as time passes.
 - Operators may not naturally notice missing updates if stale data looks the same as fresh data.
 - Subtle time-based visual cues prevent silent degradation of the operator's Situation Awareness.
+
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
@@ -37,20 +38,6 @@
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 
-### Typical Design Techniques
-
-<span style="display:block; height:0.0px;"></span>
-
-- **Fading Opacity:** Visual elements gradually fade as data ages.
-- **Desaturation:** Colors shift toward grayscale with time since last update.
-- **Countdown timers:** Textual or graphical age indicators.
-- **Halo decay:** Glows or edge highlights diminish as time passes.
-- **Last updated timestamp:** Display of data freshness (less effective for fast visual scan).
-
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-
 ### Real-World Analogy
 
 <span style="display:block; height:0.0px;"></span>
@@ -61,6 +48,20 @@
 <div style="text-align: center; margin-top: 20px;">
   <img src="../images/information_timeliness_radar.PNG" alt="Radar Refresh Example" width="30%" />
 </div>
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+
+### Typical Design Techniques
+
+<span style="display:block; height:0.0px;"></span>
+
+- **Fading Opacity:** Visual elements gradually fade as data ages.
+- **Desaturation:** Colors shift toward grayscale with time since last update.
+- **Countdown timers:** Textual or graphical age indicators.
+- **Halo decay:** Glows or edge highlights diminish as time passes.
+- **Last updated timestamp:** Display of data freshness (less effective for fast visual scan).
 
 </div>
 
@@ -89,22 +90,37 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 <span style="display:block; height:0.0px;"></span>  
 | Aspect | Notes |
 | ------ | ----- |
-| **Test Status** | Completed |
-| **Implementation Approach** | <br>• Analytics scripting used for calculating time since last update.<br>• Linear fade calculation applied to object opacity.<br>• Vendor documentation and demo projects consulted for scripting functions. |
-| **Display Build** | Canvas page type used. Icon opacity controlled via Analytics tag. |
-| **Resulting Visualization** | See screenshots below. |
+| **Implementation Approach** | Analytics scripting used for simulating data and calculating a linear fade applied to object opacity. |
+| **Display Build** | • Canvas page type used.<br>• Icon opacity dynamically controlled via analytics tag. |
+| **Version Tested** | 10.0.1.464 |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
-  <img src="../images/information_timeliness_frameworx.PNG" width="80%" style="margin-bottom: 30px;" />
-  <img src="../images/information_timeliness_frameworx_2.PNG" width="60%" />
+  <img src="../images/information_timeliness_frameworx.PNG" width="90%" style="margin-bottom: 30px;" />
+  <img src="../images/information_timeliness_frameworx_2.PNG" width="65%" />
 </div>
 
 <span style="display:block; height:1.0px;"></span>
 
+#### ✅ Ignition Perspective — Supports Information Timeliness
+<span style="display:block; height:0.0px;"></span>  
+| Aspect | Notes |
+| ------ | ----- |
+| **Implementation Approach** | Analytics scripting used for simulating data and calculating a linear fade applied to object opacity. |
+| **Display Build** | • Dashboard display component used.<br>• An `opacity` property was added, and an "Expression Binding" script configured to dynamically control opacity. |
+| **Version Tested** | Module 2.1.48 |
+
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
+  <img src="../images/information_timeliness_ignition_perspective_1.PNG" width="80%" style="margin-bottom: 30px;" />
+  <img src="../images/information_timeliness_ignition_perspective_2.PNG" width="70%" />
+</div>
+
+<span style="display:block; height:1.0px;"></span>
+
+
 #### Upcoming Vendor Testing
 
 - Aveva PI System
-- Inductive Automation Ignition
+
 </div>
 
 <div style="margin-top: 40px; font-size: 0.9em; color: #666;">
