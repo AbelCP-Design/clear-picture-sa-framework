@@ -116,9 +116,9 @@ Inspired by Stephen Few’s principle, it focuses on displaying actual vs. targe
 | **Version Tested** | 10.0.1.464 |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
-  <img src="../images/deviation_actualvstarget_bars_frameworx.PNG" width="100%" style="margin-bottom: 30px;" />
-  <img src="../images/deviation_actualvstarget_bars_frameworx_2.PNG" width="60%" style="margin-bottom: 30px;" />
-  <img src="../images/deviation_actualvstarget_bars_frameworx_3.PNG" width="60%" />
+  <img src="../images/deviation_actualvstarget_bars_frameworx.png" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_actualvstarget_bars_frameworx_2.png" width="60%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_actualvstarget_bars_frameworx_3.png" width="60%" />
 </div>
 
 <span style="display:block; height:1.0px;"></span>
