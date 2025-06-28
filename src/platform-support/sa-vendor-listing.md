@@ -22,7 +22,7 @@ The matrix below summarizes which platforms have been tested for each SA princip
 | SA Principle | FrameworX | Ignition | IOTA Vue | PI Vision |
 |--------------|-----------|----------|----------|-----------|
 | [Information Timeliness](../sa-principles/information-timeliness) | ✅ | ✅ | ⬜ | ⬜ |
-| [Deviation](../sa-principles/deviation) | ⬜ | ⬜ | ⬜ | ⬜ |
+| [Deviation](../sa-principles/deviation) | ✅ | ⬜ | ⬜ | ⬜ |
 
 <div style="height:10px;"></div>
 

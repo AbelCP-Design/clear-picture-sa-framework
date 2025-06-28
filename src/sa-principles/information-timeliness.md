@@ -95,7 +95,7 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 | **Version Tested** | 10.0.1.464 |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
-  <img src="../images/information_timeliness_frameworx.PNG" width="90%" style="margin-bottom: 30px;" />
+  <img src="../images/information_timeliness_frameworx.PNG" width="100%" style="margin-bottom: 30px;" />
   <img src="../images/information_timeliness_frameworx_2.PNG" width="65%" />
 </div>
 
@@ -110,7 +110,7 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 | **Version Tested** | Module 2.1.48 |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
-  <img src="../images/information_timeliness_ignition_perspective_1.PNG" width="80%" style="margin-bottom: 30px;" />
+  <img src="../images/information_timeliness_ignition_perspective_1.PNG" width="100%" style="margin-bottom: 30px;" />
   <img src="../images/information_timeliness_ignition_perspective_2.PNG" width="70%" />
 </div>
 
