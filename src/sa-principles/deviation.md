@@ -117,15 +117,30 @@ Inspired by Stephen Few’s principle, it focuses on displaying actual vs. targe
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
   <img src="../images/deviation_actualvstarget_bars_frameworx.png" width="100%" style="margin-bottom: 30px;" />
-  <img src="../images/deviation_actualvstarget_bars_frameworx_2.png" width="60%" style="margin-bottom: 30px;" />
-  <img src="../images/deviation_actualvstarget_bars_frameworx_3.png" width="60%" />
+  <img src="../images/deviation_actualvstarget_bars_frameworx_2.png" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_actualvstarget_bars_frameworx_3.png" width="100%" />
 </div>
 
 <span style="display:block; height:1.0px;"></span>
 
+#### ✅ Ignition Perspective — Supports Deviation (Actual vs. Target)
+<span style="display:block; height:0.0px;"></span>  
+| Aspect | Notes |
+| ------ | ----- |
+| **Implementation Approach** | “Percent of Target” is calculated in a gateway timer script, simulating process values and computing percent deviation. |
+| **Display Build** | • Progress Bars used for percent-of-target bars in Perspective.<br>• Values and % shown via bound labels.<br>• Color and position set via tag bindings and property transforms. |
+| **Version Tested** | Ignition 8.1.x (Perspective) |
+
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+  <img src="../images/deviation_actualvstarget_bars_ignition_perspective.png" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_actualvstarget_bars_ignition_perspective_2.png" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_actualvstarget_bars_ignition_perspective_3.png" width="100%" />
+</div>
+
+
 #### Upcoming Vendor Testing
 
-- Inductive Automation Ignition
+- TBD
 
 </div>
 
