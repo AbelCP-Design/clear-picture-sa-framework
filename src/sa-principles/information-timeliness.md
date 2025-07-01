@@ -107,7 +107,7 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 | ------ | ----- |
 | **Implementation Approach** | Analytics scripting used for simulating data and calculating a linear fade applied to object opacity. |
 | **Display Build** | • Dashboard display component used.<br>• An `opacity` property was added, and an "Expression Binding" script configured to dynamically control opacity. |
-| **Version Tested** | Module 2.1.48 |
+| **Version Tested** | Ignition 8.1.x (Perspective) |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
   <img src="../images/information_timeliness_ignition_perspective_1.PNG" width="100%" style="margin-bottom: 30px;" />
