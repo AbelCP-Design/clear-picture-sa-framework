@@ -181,6 +181,12 @@ Unlike Use Case #1, which focuses on magnitude of deviation from a target, this 
   <img src="../images/deviation_duration_frameworx_4.PNG" width="100%" />
 </div>
 
+<span style="display:block; height:0.0px;"></span>
+
+#### Upcoming Vendor Testing
+
+- Inductive Automation Ignition Perspective
+
 </div>
 
 
