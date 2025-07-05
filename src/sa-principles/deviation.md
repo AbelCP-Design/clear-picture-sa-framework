@@ -1,7 +1,7 @@
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="../images/deviation_infographic.PNG" alt="Deviation Infographic" width="50%" />
   <div style="font-size: 0.9em; color: #888; text-align: center; margin-top: 10px; margin-bottom: 20px;">
-    SA Level 2 — Comprehension
+    Supports Comprehension
   </div>
 </div>
 
@@ -144,6 +144,46 @@ Inspired by Stephen Few’s principle, it focuses on displaying actual vs. targe
 
 </div>
 
+<div style="border: 1px solid #ddd; border-bottom: 4px solid #ccc; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+
+### Use Case for Platform Testing — #2
+
+This use case explores how well a platform can support deviation-aware design by tracking when a process variable moves outside of acceptable limits — and for how long.
+
+Unlike Use Case #1, which focuses on magnitude of deviation from a target, this one focuses on time-based deviation detection and display. The design shows how far the process has drifted and for how long it's been out of bounds. This aids operators in comprehension of the situation — especially in identifying persistent issues — and can help prioritize responses.
+
+- Show how long the value has been out of limits, not just that it *is*.
+- Use visual markers or annotations to display the moment deviation began.
+- Include dynamic duration counters to support timely operator action.
+- (Optional) Use warning markers for immediate visual indication.
+
+</div>
+
+<div style="border: 1px solid #ddd; border-top: 4px solid #ccc; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 10px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+
+### Tested Platforms — Use Case #2
+
+<span style="display:block; height:0.0px;"></span>
+
+#### ✅ FrameworX — Supports Deviation (Duration + Limits)
+
+<span style="display:block; height:0.0px;"></span>  
+| Aspect | Notes |
+| ------ | ----- |
+| **Implementation Approach** | Runtime script tracks compliance against Hi/Lo limits and sets a timestamp when values go out of range. A duration timer then tracks how long the value remains out of spec. |
+| **Display Build** | • Canvas display. <br>• Warning markers appear automatically when values exceed limits.<br>• Duration and out-of-limit timestamp shown in real time. |
+| **Version Tested** | 10.0.1.464 |
+
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+  <img src="../images/deviation_duration_frameworx_1.png" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_duration_frameworx_2.png" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_duration_frameworx_3.png" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_duration_frameworx_4.png" width="100%" />
+</div>
+
+</div>
+
+
 <div style="margin-top: 40px; font-size: 0.9em; color: #666;">
-See which platforms have been tested for each SA principle in the <a href="../platform-support/sa-vendor-listing" style="text-decoration: none;">SA Vendor Listing</a>.
+See which platforms have been tested for each SA concept in the <a href="../platform-support/sa-vendor-listing" style="text-decoration: none;">SA Vendor Listing</a>.
 </div>

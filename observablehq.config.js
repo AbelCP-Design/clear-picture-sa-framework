@@ -7,7 +7,7 @@ export default {
   pages: [
     { name: "Home", path: "index" },
     {
-      name: "SA Principles",
+      name: "SA Concepts",
       pages: [
         { name: "Overview", path: "sa-principles/index" },
         { name: "Information Timeliness", path: "sa-principles/information-timeliness" },

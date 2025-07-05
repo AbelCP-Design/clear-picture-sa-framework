@@ -1,37 +1,37 @@
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05); text-align: center;">
   <div style="max-width: 600px; margin: 0 auto;">
     <h1 style="margin-bottom: 20px;">Methodology</h1>
-    <p>A transparent, practical evaluation of platform capabilities to implement Situation Awareness (SA) Design Principles in industrial visualization software.</p>
+    <p>A transparent, practical evaluation of how well industrial platforms can implement SA Concepts — tested visual strategies that support human awareness in real-time operations.</p>
   </div>
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <h3 style="margin-bottom: 15px;">Evaluation Process</h3>
 
-  The Clear Picture evaluation process follows three main steps:
+  Clear Picture testing follows a repeatable 3-step process:
 
-  1. **Design Principle Definition:**  
-  Each SA Design Principle is defined with clear intent — identifying the user problem, operational context, and desired user experience.
-  
-  <div style="height:0.0px;"></div>
+  1. <strong>Concept Definition</strong>:  
+     Each SA Concept begins with a clearly defined user problem — grounded in a real operational need. The visualization approach is framed to support specific cognitive goals (e.g., faster detection, better comprehension).
 
-  2. **Platform Capability Testing:**  
-  The principle is prototyped within each platform using built-in features or reasonable development approaches available to typical integrators. If advanced customization is required, this is noted.
+  <div style="height:10px;"></div>
 
-  <div style="height:0.0px;"></div>
+  2. <strong>Platform Testing</strong>:  
+     The concept is built inside each platform using typical integrator tools and workflows — no unfair custom coding unless clearly noted. This simulates what a real user team could reasonably build.
 
-  3. **Documentation & Transparency:**  
-  Results are openly published, showing both the capabilities and any workarounds observed. This allows vendors and users to see not just *whether* a platform can support SA design, but *how*.
+  <div style="height:10px;"></div>
+
+  3. <strong>Result Documentation</strong>:  
+     Results are published with screenshots, configuration notes, and observations. This shows not just whether the concept is possible, but how it behaves and what tradeoffs are involved.
 </div>
 
-
-
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-  <h3 style="margin-bottom: 15px;">What This Evaluation Measures</h3>
+  <h3 style="margin-bottom: 15px;">What the Evaluation Measures</h3>
 
-  This evaluation focuses on **platform capability** — whether a tool technically allows an SA Design Principle to be implemented.
+  This effort focuses on platform <strong>capability</strong> — not visual polish or layout preference. The key question is:
 
-  It does not assess the quality of any specific dashboard implementation, which ultimately depends on the skill, experience, and design approach of the developer or integrator.
+  <div style="margin-top: 10px; font-style: italic;">Can this platform express the concept needed to support user awareness?</div>
 
-  The framework will evolve as new principles are added and as vendors release new features.
+  We’re not judging any specific dashboard’s aesthetics. Instead, we’re exploring whether the <em>tool itself</em> can support high-performance, human-centered visualization when used well.
+
+  As new features and platforms emerge, the framework will continue to evolve.
 </div>

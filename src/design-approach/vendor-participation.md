@@ -1,17 +1,17 @@
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05); text-align: center;">
   <div style="max-width: 650px; margin: 0 auto;">
     <h1 style="margin-bottom: 20px;">Vendor Participation & Feedback</h1>
-    <p>Supporting an open, collaborative process for vendors as Situation Awareness design principles are applied and tested across industrial visualization platforms.</p>
+    <p>Supporting an open, collaborative process for vendors as Situation Awareness concepts are applied and tested across industrial visualization platforms.</p>
   </div>
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <h3 style="margin-bottom: 15px;">Evaluation Philosophy</h3>
 
-  Clear Picture evaluations explore how industrial visualization platforms support key Situation Awareness (SA) Design Principles that help operators, engineers, and teams see and respond effectively.
+  Clear Picture evaluations explore how industrial visualization platforms support key Situation Awareness (SA) Concepts that help operators, engineers, and teams see and respond effectively.
 
   <ul>
-    <li>Focus on practical implementation of SA Design Principles.</li>
+    <li>Focus on practical implementation of SA Concepts.</li>
     <li>Use generally available features accessible to integrators, designers, and end users.</li>
     <li>Do not represent formal software certification or complete vendor environment mastery.</li>
   </ul>
@@ -27,7 +27,7 @@
   <ul>
     <li>Review existing evaluations.</li>
     <li>Share alternative configuration options.</li>
-    <li>Demonstrate additional SA Principle implementations.</li>
+    <li>Demonstrate additional SA Concept implementations.</li>
     <li>Submit updated capability information as new features become available.</li>
   </ul>
 
@@ -42,5 +42,3 @@
     </p>
   </div>
 </div>
-
-
