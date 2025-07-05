@@ -37,7 +37,7 @@
       <span style="font-style: italic; font-size: 0.9em; color: #666;">"How current is this information I’m seeing?"</span>
     </li>
     <li style="margin-top: 14px;">
-      <a href="deviation" style="font-weight: 500;">Comprehension: Deviation</a><br>
+      <a href="deviation" style="font-weight: 500;">Deviation</a><br>
       <span style="font-style: italic; font-size: 0.9em; color: #666;">"How far am I from where I should be?"</span>
     </li>
   </ul>
