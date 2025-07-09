@@ -183,9 +183,27 @@ Unlike Use Case #1, which focuses on magnitude of deviation from a target, this 
 
 <span style="display:block; height:0.0px;"></span>
 
+#### ✅ Ignition Perspective — Supports Deviation (Duration + Limits)
+
+<span style="display:block; height:0.0px;"></span>  
+| Aspect | Notes |
+| ------ | ----- |
+| **Implementation Approach** | Gateway timer script monitors compliance bit and triggers logic to calculate and display deviation duration and timestamp. |
+| **Display Build** | • Time Series Chart shows value, high/low limits, and visible deviation bands.<br>• Timer and timestamp appear when limit exceeded.<br>• Transform and bindings used to format display. |
+| **Version Tested** | Ignition 8.1.x (Perspective) |
+
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+  <img src="../images/deviation_duration_perspective_1.PNG" width="90%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_duration_perspective_2.PNG" width="90%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_duration_perspective_3.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_duration_perspective_4.PNG" width="100%" />
+</div>
+
+<span style="display:block; height:0.0px;"></span>
+
 #### Upcoming Vendor Testing
 
-- Inductive Automation Ignition Perspective
+- TBD
 
 </div>
 
