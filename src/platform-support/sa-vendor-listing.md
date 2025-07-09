@@ -22,7 +22,8 @@ The matrix below summarizes which platforms have been tested for each SA concept
 | SA Concept | FrameworX | Ignition |
 |--------------|-----------|----------|
 | [Information Timeliness](../sa-principles/information-timeliness) | ✅ | ✅ |
-| [Deviation](../sa-principles/deviation) | ✅ | ✅ |
+| [Deviation ( Actual vs. Target )](../sa-principles/deviation) | ✅ | ✅ |
+| [Deviation ( Duration + Limits )](../sa-principles/deviation) | ✅ | ✅ |
 
 <div style="height:10px;"></div>
 
