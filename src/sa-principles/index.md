@@ -40,5 +40,9 @@
       <a href="deviation" style="font-weight: 500;">Deviation</a><br>
       <span style="font-style: italic; font-size: 0.9em; color: #666;">"How far am I from where I should be?"</span>
     </li>
+        <li style="margin-top: 14px;">
+      <a href="chunking" style="font-weight: 500;">Chunking</a><br>
+      <span style="font-style: italic; font-size: 0.9em; color: #666;">"Can I organize this information into meaningful groups?"</span>
+    </li>
   </ul>
 </div>

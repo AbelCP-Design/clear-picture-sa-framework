@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="../images/information_timeliness_infographic.PNG" alt="Information Timeliness Infographic" width="80%" />
+  <img src="../images/information_timeliness_infographic.PNG" alt="Information Timeliness Infographic" width="70%" />
   <div style="font-size: 0.9em; color: #888; text-align: center; margin-top: 10px; margin-bottom: 20px;">
     Supports Certainty
   </div>
@@ -119,10 +119,10 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 
 #### Upcoming Vendor Testing
 
-- TBD
+- AVEVA PI Vision
 
 </div>
 
 <div style="margin-top: 40px; font-size: 0.9em; color: #666;">
-See which platforms have been tested for each SA technique in the <a href="../platform-support/sa-vendor-listing" style="text-decoration: none;">SA Vendor Listing</a>.
+See which platforms have been tested for each SA concept in the <a href="../platform-support/sa-vendor-listing" style="text-decoration: none;">SA Vendor Listing</a>.
 </div>

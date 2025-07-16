@@ -11,7 +11,8 @@ export default {
       pages: [
         { name: "Overview", path: "sa-principles/index" },
         { name: "Information Timeliness", path: "sa-principles/information-timeliness" },
-        { name: "Deviation", path: "sa-principles/deviation" }
+        { name: "Deviation", path: "sa-principles/deviation" },
+        { name: "Chunking", path: "sa-principles/chunking" }
       ]
     },
     { name: "SA Vendor Listing", path: "platform-support/sa-vendor-listing" },
