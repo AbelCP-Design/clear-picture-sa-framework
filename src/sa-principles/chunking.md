@@ -101,12 +101,18 @@ Consider a compliance tracking dashboard for pump groups:
 | **Version Tested** | PI Vision 2024. PI Server 2018 SP3 |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
-  <img src="../images/chunking_pivision_1.gif" width="100%" style="margin-bottom: 30px;" />  
+  <img src="../images/chunking_pivision_1.gif" width="850px" style="margin: 0; display: block;" />
+<p style="font-size: 0.85em; color: #777; margin: 0; padding-top: 4px; margin-bottom: 30px; line-height: 1.2;">
+  To view the animation in a larger, more legible format, right-click on the GIF and select <em>"Open Image in New Tab"</em>.
+</p>
   <img src="../images/chunking_pivision_2.PNG" width="70%" style="margin-bottom: 30px;" />
   <img src="../images/chunking_pivision_3.PNG" width="60%" style="margin-bottom: 30px;" />
   <img src="../images/chunking_pivision_4.PNG" width="55%" style="margin-bottom: 30px;" />
   <img src="../images/chunking_pivision_5.PNG" width="100%" style="margin-bottom: 30px;" />
   <img src="../images/chunking_pivision_6.PNG" width="55%" style="margin-bottom: 30px;" />
+</div>
+
+
 </div>
 
 <span style="display:block; height:0.0px;"></span>
