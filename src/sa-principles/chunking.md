@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="../images/chunking_infographic.PNG" alt="Chunking Infographic" width="70%" />
+  <img src="../images/chunking_infographic.png" alt="Chunking Infographic" width="70%" />
   <div style="font-size: 0.9em; color: #888; text-align: center; margin-top: 10px; margin-bottom: 20px; padding-left: 0%;">
     Supports Comprehension
   </div>
@@ -47,7 +47,7 @@
 > Experienced air traffic controllers don’t track 30 individual planes — they organize them into meaningful chunks like “arrivals,” “departures,” or “holding pattern.” This makes complexity manageable and improves control decisions.
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="../images/chunking_realworldanalogy_inforgraphic.PNG" alt="Radar Refresh Example" width="35%" />
+  <img src="../images/chunking_realworldanalogy_inforgraphic.png" alt="Radar Refresh Example" width="35%" />
 </div>
 
 </div>
@@ -101,7 +101,7 @@ Consider a compliance tracking dashboard for pump groups:
 | **Version Tested** | PI Vision 2024. PI Server 2018 SP3 |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
-  <img src="../images/chunking_pivision_1.GIF" width="100%" style="margin-bottom: 30px;" />  
+  <img src="../images/chunking_pivision_1.gif" width="100%" style="margin-bottom: 30px;" />  
   <img src="../images/chunking_pivision_2.PNG" width="70%" style="margin-bottom: 30px;" />
   <img src="../images/chunking_pivision_3.PNG" width="60%" style="margin-bottom: 30px;" />
   <img src="../images/chunking_pivision_4.PNG" width="55%" style="margin-bottom: 30px;" />
