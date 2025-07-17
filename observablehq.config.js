@@ -36,7 +36,7 @@ export default {
 
   // Content to add to the head of the page, e.g. for a favicon:
 head: `
-<script defer data-domain="framework.clearpicturesa.com" src="https://plausible.io/js/script.js"></script>
+<script defer data-domain="framework.clearpicturesa.com" src="https://plausible.io/js/script.outbound-links.js"></script>
 <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
 <link rel="icon" href="observable.png" type="image/png" sizes="32x32">
 <style id="force-light-theme">
