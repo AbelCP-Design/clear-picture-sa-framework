@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="../images/information_timeliness_infographic.PNG" alt="Information Timeliness Infographic" width="70%" />
+  <img src="../images/information_timeliness_infographic_2.PNG" alt="Information Timeliness Infographic" width="70%" />
   <div style="font-size: 0.9em; color: #888; text-align: center; margin-top: 10px; margin-bottom: 20px;">
     Supports Certainty
   </div>
