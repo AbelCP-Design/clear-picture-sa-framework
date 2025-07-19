@@ -52,7 +52,7 @@
   <h3 style="margin-bottom: 25px;">Centerline Monitoring – Main</h3>
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">Provides a top-level snapshot of critical process variables operating outside target ranges in a Pulp and Paper Plant, highlighting both magnitude and duration of deviation.</p>
   <div style="text-align: center; margin-top: 20px;">
-    <img src="../images/reference_dashboard_example_centerlines_main.JPEG" alt="Centerlines Main" width="90%" />
+    <img src="../images/reference_dashboard_example_centerlines_main.jpeg" alt="Centerlines Main" width="90%" />
   </div>
       <div style="font-size: 0.75em; color: #777; margin-bottom: 10px; text-align: center;">Platform: AVEVA PI Vision</div>
 </div>
@@ -62,7 +62,7 @@
   <h3 style="margin-bottom: 25px;">Centerline Monitoring – Detail</h3>
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">Enables focused monitoring of process variables in and out of range, showing current values alongside target limits and historical trends to support operator understanding.</p>
   <div style="text-align: center; margin-top: 20px;">
-    <img src="../images/reference_dashboard_example_centerlines.JPEG" alt="Centerlines Detail" width="90%" />
+    <img src="../images/reference_dashboard_example_centerlines.jpeg" alt="Centerlines Detail" width="90%" />
   </div>
       <div style="font-size: 0.75em; color: #777; margin-bottom: 10px; text-align: center;">Platform: AVEVA PI Vision</div>
 </div>
