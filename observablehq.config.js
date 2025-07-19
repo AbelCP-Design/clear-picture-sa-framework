@@ -15,7 +15,8 @@ export default {
         { name: "Chunking", path: "sa-principles/chunking" }
       ]
     },
-    { name: "SA Vendor Listing", path: "platform-support/sa-vendor-listing" },
+  { name: "Implemented Designs", path: "implemented-designs/implementeddesigns" },
+  { name: "SA Vendor Listing", path: "platform-support/sa-vendor-listing" },
     {
       name: "Design Approach",
       pages: [
@@ -107,6 +108,7 @@ head: `
     color: #222222 !important;
   }
 
+  }
 </style>
 
 <script>

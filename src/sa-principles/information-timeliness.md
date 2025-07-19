@@ -116,7 +116,6 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 
 <span style="display:block; height:1.0px;"></span>
 
-
 #### Upcoming Vendor Testing
 
 - AVEVA PI Vision
@@ -126,3 +125,5 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 <div style="margin-top: 40px; font-size: 0.9em; color: #666;">
 See which platforms have been tested for each SA concept in the <a href="../platform-support/sa-vendor-listing" style="text-decoration: none;">SA Vendor Listing</a>.
 </div>
+
+
