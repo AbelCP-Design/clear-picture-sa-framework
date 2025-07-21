@@ -191,8 +191,8 @@ Unlike Use Case #1, which focuses on magnitude of deviation from a target, this 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
   <img src="../images/deviation_duration_frameworx_1.PNG" width="100%" style="margin-bottom: 30px;" />
   <img src="../images/deviation_duration_frameworx_2.PNG" width="100%" style="margin-bottom: 30px;" />
-  <img src="../images/deviation_duration_frameworx_3.PNG" width="85%" style="margin-bottom: 30px;" />
-  <img src="../images/deviation_duration_frameworx_4.PNG" width="85%" />
+  <img src="../images/deviation_duration_frameworx_3.PNG" width="80%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_duration_frameworx_4.PNG" width="80%" />
 </div>
 
 <span style="display:block; height:0.0px;"></span>
