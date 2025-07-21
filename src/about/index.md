@@ -2,7 +2,7 @@
   <div style="max-width: 600px; margin: 0 auto;">
     <h1 style="margin-bottom: 5px;">About Clear Picture SA</h1>
       <div style="display: flex; flex-direction: column; align-items: center; margin-top: 0px;">
-    <img src="/images/logo_clear_picture_3.PNG" width="15%" style="margin-bottom: 10px;" />
+    <img src="/images/logo_clear_picture.png" width="15%" style="margin-bottom: 10px;" />
     <p>Improving industrial visualization through practical application of Situation Awareness (SA) Concepts.</p>
   </div>
 </div>
