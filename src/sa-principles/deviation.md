@@ -217,7 +217,7 @@ Unlike Use Case #1, which focuses on magnitude of deviation from a target, this 
 
 #### Upcoming Vendor Testing
 
-- AVEVA PI Vision
+- AVEVA PI Vision.
 
 </div>
 
