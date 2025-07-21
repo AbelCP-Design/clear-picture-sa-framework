@@ -137,6 +137,20 @@ Inspired by Stephen Few’s principle, it focuses on displaying actual vs. targe
   <img src="../images/deviation_actualvstarget_bars_ignition_perspective_3.PNG" width="90%" />
 </div>
 
+#### ✅ AVEVA PI Vision — Supports Deviation (Actual vs. Target)
+<span style="display:block; height:0.0px;"></span>  
+| Aspect | Notes |
+| ------ | ----- |
+| **Implementation Approach** | PI AF Analytics used to calculate simulated KPI's values, percent-of-target and alarm triggers. |
+| **Display Build** | • "Horizontal Gauge" used for percent-of-target bars in PI Vision.<br>• All values are displayed via the "Value" tool.<br>• Alarm circles are visible/hidden using the "Multi-State" feature. |
+| **Version Tested** | PI Vision 2024. PI Server 2018 SP3 |
+
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+  <img src="../images/deviation_actualvstarget_bars_pivision_1.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_actualvstarget_bars_pivision_2.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_actualvstarget_bars_pivision_3.PNG" width="100%" />
+</div>
+
 
 #### Upcoming Vendor Testing
 
@@ -201,9 +215,10 @@ Unlike Use Case #1, which focuses on magnitude of deviation from a target, this 
 
 <span style="display:block; height:0.0px;"></span>
 
+
 #### Upcoming Vendor Testing
 
-- AVEVA PI Vision
+- TBD
 
 </div>
 
