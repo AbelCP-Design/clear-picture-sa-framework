@@ -2,7 +2,7 @@
   <div style="max-width: 600px; margin: 0 auto;">
     <h1 style="margin-bottom: 5px;">Clear Picture SA</h1>
   <div style="display: flex; flex-direction: column; align-items: center; margin-top: 0px;">
-    <img src="/images/logo_clear_picture.png" width="15%" style="margin-bottom: 10px;" />
+    <img src="/images/logo_clear_picture.PNG" width="15%" style="margin-bottom: 10px;" />
     <p>Helping industrial teams design dashboards that show what matters, when it matters — so people can see clearly and act confidently.</p>
       </div>
   </div>
