@@ -4,6 +4,7 @@
       <div style="display: flex; flex-direction: column; align-items: center; margin-top: 0px;">
     <img src="/images/logo_clear_picture.PNG" width="15%" style="margin-bottom: 10px;" />
     <p>Improving industrial visualization through practical application of Situation Awareness (SA) Concepts.</p>
+    </div>
   </div>
 </div>
 
