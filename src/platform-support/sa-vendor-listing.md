@@ -23,7 +23,7 @@ The matrix below summarizes which platforms have been tested for each SA concept
 |--------------|-----------|----------|----------|
 | [Information Timeliness](../sa-principles/information-timeliness#use-case-for-platform-testing) | ✅ | ✅ | ⬜ |
 | [Deviation ( Actual vs. Target )](../sa-principles/deviation#use-case-for-platform-testing-1) | ✅ | ✅ | ✅ |
-| [Deviation ( Duration + Limits )](../sa-principles/deviation#use-case-for-platform-testing-2) | ✅ | ✅ | ⬜ |
+| [Deviation ( Duration + Limits )](../sa-principles/deviation#use-case-for-platform-testing-2) | ✅ | ✅ | ✅ |
 | [Chunking](../sa-principles/chunking#aveva-pi-vision-supports-chunking) | ⬜ | ⬜ | ✅ |
 
 <div style="height:10px;"></div>
