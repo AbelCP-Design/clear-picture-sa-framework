@@ -202,7 +202,7 @@ Unlike Use Case #1, which focuses on magnitude of deviation from a target, this 
 | Aspect | Notes |
 | ------ | ----- |
 | **Implementation Approach** | Gateway timer script monitors compliance bit and triggers logic to calculate and display deviation duration and timestamp. |
-| **Display Build** | • Time Series Chart shows value, high/low limits, and visible deviation bands.<br>• Timer and timestamp appear when limit exceeded.<br>• Transform and bindings used to format display. |
+| **Display Build** | • Time Series Chart shows value, high/low limits. <br>• Timer and timestamp appear when limit exceeded.<br>• Transform and bindings used to format display. |
 | **Version Tested** | Ignition 8.1.x (Perspective) |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
@@ -214,10 +214,28 @@ Unlike Use Case #1, which focuses on magnitude of deviation from a target, this 
 
 <span style="display:block; height:0.0px;"></span>
 
+#### ✅ AVEVA PI Vision — Supports Deviation (Duration + Limits)
+
+<span style="display:block; height:0.0px;"></span>
+
+| Aspect | Notes |
+| ------ | ----- |
+| **Implementation Approach** | AF Analysis monitors compliance against Hi/Lo limits. When values exceed limits, a timestamp is recorded. A duration timer tracks how long the value remains out of spec. |
+| **Display Build** | • A "Trend" object shows the value along with high/low limits.<br>• "Timestamp" and "duration" display when limits are exceeded.<br>• "Calculations" in PI Vision used to support visualization logic.<br>• "Multi-State" applied to control visibility based on range conditions. |
+| **Version Tested** | PI Vision 2024, PI Server 2018 SP3 |
+
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+  <img src="../images/deviation_duration_pivision_1.PNG" width="90%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_duration_pivision_2.PNG" width="90%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_duration_pivision_3.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/deviation_duration_pivision_4.PNG" width="100%" />
+</div>
+
+<span style="display:block; height:0.0px;"></span>
 
 #### Upcoming Vendor Testing
 
-- AVEVA PI Vision
+- TBD
 
 </div>
 
