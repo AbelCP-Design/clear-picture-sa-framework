@@ -16,7 +16,7 @@
   <p><strong>Principle:</strong> Present SA Level 2 Information Directly – Support Comprehension</p>
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     Rather than displaying voltage or just a battery percentage, the phone gives you the information that matters:<br>
-    <span style="display:block; height:5.0px;"></span>
+    <span style="display:block; height:7.5px;"></span>
     <strong>How long until full?</strong>
   </p>
     <div style="text-align: center; margin-top: 0px;">
