@@ -20,7 +20,7 @@
     <strong>How long until full?</strong>
   </p>
     <div style="text-align: center; margin-top: 0px;">
-    <img src="../images/samoments_time_until_full.JPG" alt="Liquor Inventory Summary" width="50%" />
+    <img src="../images/samoments_time_until_full.jpg" alt="Liquor Inventory Summary" width="50%" />
   </div>
 
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
