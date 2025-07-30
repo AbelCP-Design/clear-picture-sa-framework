@@ -112,14 +112,29 @@ Consider a compliance tracking dashboard for pump groups:
   <img src="../images/chunking_pivision_6.PNG" width="55%" style="margin-bottom: 30px;" />
 </div>
 
+#### ✅ Ignition Perspective — Supports Chunking
 
+| Aspect | Notes |
+| ------ | ----- |
+| **Implementation Approach** | Pump groups are modeled using UDTs and organized dynamically by compliance status. Grouping logic is handled via tag-driven classification and scripting within Flex Repeaters. |
+| **Display Build** | • Three visually separated columns show compliant, out-of-compliance, and stopped pump groups<br>• Each group contains dynamic runtime counters, timestamps, and compliance indicators<br>• Layout supports at-a-glance comparison and comprehension |
+| **Version Tested** | Ignition 8.1.x (Perspective) |
+
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
+  <img src="../images/chunking_ignition_1.gif" width="850px" style="margin: 0; display: block;" />
+<p style="font-size: 0.85em; color: #777; margin: 0; padding-top: 4px; margin-bottom: 30px; line-height: 1.2;">
+  To view the animation in a larger, more legible format, right-click on the GIF and select <em>"Open Image in New Tab"</em>.
+</p>
+  <img src="../images/chunking_ignition_2.PNG" width="70%" style="margin-bottom: 30px;" />
+  <img src="../images/chunking_ignition_3.PNG" width="60%" style="margin-bottom: 30px;" />
+  <img src="../images/chunking_ignition_4.PNG" width="55%" style="margin-bottom: 30px;" />
+  <img src="../images/chunking_ignition_5.PNG" width="90%" style="margin-bottom: 30px;" />
+  <img src="../images/chunking_ignition_6.PNG" width="95%" style="margin-bottom: 30px;" />
+  <img src="../images/chunking_ignition_7.PNG" width="100%" style="margin-bottom: 30px;" />
 </div>
-
-<span style="display:block; height:0.0px;"></span>
 
 #### Upcoming Vendor Testing
 
-- Inductive Automation Perspective
 - Tatsoft FrameworX
 
 </div>
