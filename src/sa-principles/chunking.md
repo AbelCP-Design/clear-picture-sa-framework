@@ -112,17 +112,12 @@ Consider a compliance tracking dashboard for pump groups:
   <img src="../images/chunking_pivision_6.PNG" width="55%" style="margin-bottom: 30px;" />
 </div>
 
-
-</div>
-
-<span style="display:block; height:0.0px;"></span>
-
 #### ✅ Ignition Perspective — Supports Chunking
 
 | Aspect | Notes |
 | ------ | ----- |
-| **Implementation Approach** | Chunking achieved through structured UDTs and dynamic grouping using Flex Repeaters. Pump groups are classified by compliance using tag-driven logic. |
-| **Display Build** | • Three grouped columns for compliant, non-compliant, and stopped pump groups suing Flex Repeaters.<br>• Each group dynamically updates using tag events and scripting<br>• Timers and runtime metrics shown for each group to support operational comprehension |
+| **Implementation Approach** | Pump groups are modeled using UDTs and organized dynamically by compliance status. Grouping logic is handled via tag-driven classification and scripting within Flex Repeaters. |
+| **Display Build** | • Three visually separated columns show compliant, out-of-compliance, and stopped pump groups<br>• Each group contains dynamic runtime counters, timestamps, and compliance indicators<br>• Layout supports at-a-glance comparison and comprehension |
 | **Version Tested** | Ignition 8.1.x (Perspective) |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
@@ -137,11 +132,6 @@ Consider a compliance tracking dashboard for pump groups:
   <img src="../images/chunking_ignition_6.PNG" width="95%" style="margin-bottom: 30px;" />
   <img src="../images/chunking_ignition_7.PNG" width="100%" style="margin-bottom: 30px;" />
 </div>
-
-
-</div>
-
-<span style="display:block; height:0.0px;"></span>
 
 #### Upcoming Vendor Testing
 
