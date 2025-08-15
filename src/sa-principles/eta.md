@@ -96,8 +96,8 @@ The calculation uses the current tank level, configurable smoothing, and a minim
 | **Version Tested** | 10.0.1.464 |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
-  <img src="../images/eta_frameworx_1.png" width="75%" style="margin-bottom: 30px;" />
-  <img src="../images/eta_frameworx_2.png" width="55%" />
+  <img src="../images/eta_frameworx_1.PNG" width="75%" style="margin-bottom: 30px;" />
+  <img src="../images/eta_frameworx_2.PNG" width="55%" />
 </div>
 
 <span style="display:block; height:1.0px;"></span>
