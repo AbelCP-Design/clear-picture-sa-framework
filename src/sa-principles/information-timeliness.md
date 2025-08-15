@@ -38,7 +38,7 @@
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 
-### Real-World Analogy
+### Cross-Domain Analogy
 
 <span style="display:block; height:0.0px;"></span>
 
