@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="../images/eta_infographic.png" alt="Estimated Time to Full/Empty (ETA) Infographic" width="70%" />
+  <img src="../images/eta_infographic.PNG" alt="Estimated Time to Full/Empty (ETA) Infographic" width="70%" />
   <div style="font-size: 0.9em; color: #888; text-align: center; margin-top: 10px; margin-bottom: 20px;">
     Supports Projection
   </div>
@@ -45,7 +45,7 @@
 > Operators benefit from the same pattern: surface **how long until** a state change at the current rate.
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="../images/eta_gps_analogy.png" alt="GPS ETA Analogy" width="40%" />
+  <img src="../images/eta_gps_analogy.PNG" alt="GPS ETA Analogy" width="40%" />
 </div>
 
 </div>
