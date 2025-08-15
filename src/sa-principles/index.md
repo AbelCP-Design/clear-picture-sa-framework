@@ -42,7 +42,11 @@
     </li>
         <li style="margin-top: 14px;">
       <a href="chunking" style="font-weight: 500;">Chunking</a><br>
-      <span style="font-style: italic; font-size: 0.9em; color: #666;">"Can I organize this information into meaningful groups?"</span>
+      <span style="font-style: italic; font-size: 0.9em; color: #666;">"Can I group this information into meaningful categories?"</span>
+    </li>
+            <li style="margin-top: 14px;">
+      <a href="eta" style="font-weight: 500;">ETA</a><br>
+      <span style="font-style: italic; font-size: 0.9em; color: #666;">"How long until a critical state is reached?"</span>
     </li>
   </ul>
 </div>

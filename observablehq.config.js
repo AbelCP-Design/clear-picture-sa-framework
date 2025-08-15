@@ -12,7 +12,8 @@ export default {
         { name: "Overview", path: "sa-principles/index" },
         { name: "Information Timeliness", path: "sa-principles/information-timeliness" },
         { name: "Deviation", path: "sa-principles/deviation" },
-        { name: "Chunking", path: "sa-principles/chunking" }
+        { name: "Chunking", path: "sa-principles/chunking" },
+        { name: "ETA", path: "sa-principles/eta" }
       ]
     },
   { name: "Implemented Designs", path: "implemented-designs/implementeddesigns" },
