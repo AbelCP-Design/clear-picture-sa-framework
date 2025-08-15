@@ -45,7 +45,7 @@
 > Operators benefit from the same pattern: surface **how long until** a state change at the current rate.
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="../images/eta_gps_analogy.PNG" alt="GPS ETA Analogy" width="40%" />
+  <img src="../images/eta_gps_analogy.png" alt="GPS ETA Analogy" width="40%" />
 </div>
 
 </div>
