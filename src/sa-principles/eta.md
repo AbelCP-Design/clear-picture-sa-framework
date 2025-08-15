@@ -104,7 +104,7 @@ The calculation uses the current tank level, configurable smoothing, and a minim
 
 #### Upcoming Vendor Testing
 
-- Ignition Perspective 
+- Ignition Perspective
 - AVEVA PI Vision
 
 </div>
