@@ -40,7 +40,7 @@
     This forward-looking cue changes how you drive: you might adjust speed, watch nearby lanes, and stay alert for sudden maneuvers. If the hazard is gone, you can even update the system for others.
   </p>
     <div style="text-align: center; margin-top: 0px;">
-    <img src="../images/samoments_object_on_road.png" alt="GPS road hazard warning" width="50%" />
+    <img src="../images/samoments_object_on_road.PNG" alt="GPS road hazard warning" width="50%" />
   </div>
 
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
