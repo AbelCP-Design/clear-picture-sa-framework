@@ -111,7 +111,7 @@ The calculation uses the current tank level, configurable smoothing, and a minim
 | **Version Tested** | Ignition 8.1.x (Perspective) |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
-  <img src="../images/eta_perspective_1.PNG" width="75%" style="margin-bottom: 30px;" />
+  <img src="../images/eta_perspective_1.png" width="75%" style="margin-bottom: 30px;" />
   <img src="../images/eta_perspective_2.PNG" width="55%" />
 </div>
 
