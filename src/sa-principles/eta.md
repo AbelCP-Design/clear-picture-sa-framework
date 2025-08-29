@@ -102,9 +102,24 @@ The calculation uses the current tank level, configurable smoothing, and a minim
 
 <span style="display:block; height:1.0px;"></span>
 
+#### ✅ Ignition Perspective — Supports ETA (Time to Full/Empty)
+<span style="display:block; height:0.0px;"></span>  
+| Aspect | Notes |
+| ------ | ----- |
+| **Implementation Approach** | Gateway Timer Script reads level/min/max and tuner tags, computes smoothed **rate (EMA)** and **ETA**; suppresses ETA when rate is below threshold. Writes results to memory tags (**Rate**, **Direction**, **ETA**, label strings). |
+| **Display Build** | Three labels bound separately: **Filling/Draining/Stable** (↑/↓/—), **Rate** (e.g., `0.8 %/min`), **ETA** (e.g., `ETA Empty: 70 min` or `—`). Simple tag-driven simulator used to drive fill/drain for tests. |
+| **Version Tested** | Ignition 8.1.x (Perspective) |
+
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
+  <img src="../images/eta_perspective_1.png" width="75%" style="margin-bottom: 30px;" />
+  <img src="../images/eta_perspective_2.PNG" width="55%" />
+</div>
+
+<span style="display:block; height:1.0px;"></span>
+
+
 #### Upcoming Vendor Testing
 
-- Ignition Perspective
 - AVEVA PI Vision
 
 </div>
