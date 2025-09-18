@@ -16,6 +16,13 @@ export default {
         { name: "ETA", path: "sa-principles/eta" }
       ]
     },
+        {
+      name: "SA Design Patterns",
+      pages: [
+        { name: "Overview", path: "sa-design-patterns/index" },
+        { name: "Pattern 1", path: "sa-design-patterns/ds1" }
+      ]
+    },
   { name: "Implemented Designs", path: "implemented-designs/implementeddesigns" },
   { name: "Daily Moments of SA", path: "sa-principles/dailymomentssa" },
   { name: "SA Vendor Listing", path: "platform-support/sa-vendor-listing" },

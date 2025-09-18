@@ -1,37 +1,37 @@
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05); text-align: center;">
   <div style="max-width: 650px; margin: 0 auto;">
     <h1 style="margin-bottom: 20px;">Vendor Participation & Feedback</h1>
-    <p>Supporting an open, collaborative process for vendors as Situation Awareness concepts are applied and tested across industrial visualization platforms.</p>
+    <p>Supporting an open, collaborative process as Situation Awareness (SA) concepts and patterns are applied and tested across industrial visualization platforms.</p>
   </div>
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <h3 style="margin-bottom: 15px;">Evaluation Philosophy</h3>
 
-  Clear Picture evaluations explore how industrial visualization platforms support key Situation Awareness (SA) Concepts that help operators, engineers, and teams see and respond effectively.
+  Clear Picture evaluations explore how platforms support key SA design needs that help operators, engineers, and teams see and respond effectively:
 
   <ul>
-    <li>Focus on practical implementation of SA Concepts.</li>
-    <li>Use generally available features accessible to integrators, designers, and end users.</li>
-    <li>Do not represent formal software certification or complete vendor environment mastery.</li>
+    <li><strong>SA Concepts</strong> — tested across multiple platforms using generally available features.</li>
+    <li><strong>SA Design Patterns</strong> — demonstrated in FrameworX to show how multiple concepts can work together in real dashboards.</li>
+    <li>Focus on practical, real-world implementation paths available to integrators, designers, and end users.</li>
+    <li>Not intended as formal software certification or exhaustive vendor environment mastery.</li>
   </ul>
 
-  We recognize platforms may offer multiple valid configuration paths, and capabilities will continue to evolve as vendors release new features.
+  We recognize platforms may support concepts through different configuration approaches, and capabilities will continue to evolve as vendors release new features.
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <h3 style="margin-bottom: 15px;">How Vendors Can Participate</h3>
 
   Vendors are invited to:
-
   <ul>
-    <li>Review existing evaluations.</li>
-    <li>Share alternative configuration options.</li>
-    <li>Demonstrate additional SA Concept implementations.</li>
-    <li>Submit updated capability information as new features become available.</li>
+    <li>Review existing evaluations and share feedback.</li>
+    <li>Suggest or demonstrate alternative configuration options.</li>
+    <li>Showcase additional SA Concept implementations.</li>
+    <li>Submit updated capability details as new features become available.</li>
   </ul>
 
-  Our goal is to maintain an open, neutral, and transparent resource that serves both vendors and the wider industrial visualization community.
+  The goal is to maintain an open, neutral, and transparent resource that benefits both vendors and the wider industrial visualization community.
 </div>
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05); text-align: center;">
