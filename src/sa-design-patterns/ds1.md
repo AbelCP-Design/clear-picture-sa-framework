@@ -42,15 +42,15 @@
   <h4 style="margin-top: 25px;">📷 Dashboard Examples</h4>
   <ul style="list-style: none; padding-left: 0;">
     <li><strong>Base View:</strong> All filters off — global picture visible.<br>
-      <img src="../images/ds1_pic1.png" alt="Dashboard base view" style="margin-top: 8px; border: 1px solid #ccc; border-radius: 8px; max-width: 108%;">
+      <img src="../images/ds1_pic1.PNG" alt="Dashboard base view" style="margin-top: 8px; border: 1px solid #ccc; border-radius: 8px; max-width: 108%;">
     </li>
     <li style="margin-top: 25px;"><strong>Focused View:</strong> Showing only flows, pressures, and alarms — supporting impact-on-alarms analysis.<br>
-      <img src="../images/ds1_pic2.png" alt="Dashboard filtered for flows, pressures, alarms" style="margin-top: 8px; border: 1px solid #ccc; border-radius: 8px; max-width: 108%;">
+      <img src="../images/ds1_pic2.PNG" alt="Dashboard filtered for flows, pressures, alarms" style="margin-top: 8px; border: 1px solid #ccc; border-radius: 8px; max-width: 108%;">
     </li>
     <li style="margin-top: 25px;"><strong>Key Elements Configuration</strong><br>
-      <img src="../images/ds1_pic3.png" alt="Configurable objects example 1" style="margin-top: 16px; border: 1px solid #ccc; border-radius: 8px; max-width: 108%;">
-      <img src="../images/ds1_pic4.png" alt="Configurable objects example 2" style="margin-top: 16px; border: 1px solid #ccc; border-radius: 8px; max-width: 108%;">
-      <img src="../images/ds1_pic5.png" alt="Configurable objects example 3" style="margin-top: 16px; border: 1px solid #ccc; border-radius: 8px; max-width: 108%;">
+      <img src="../images/ds1_pic3.PNG" alt="Configurable objects example 1" style="margin-top: 16px; border: 1px solid #ccc; border-radius: 8px; max-width: 108%;">
+      <img src="../images/ds1_pic4.PNG" alt="Configurable objects example 2" style="margin-top: 16px; border: 1px solid #ccc; border-radius: 8px; max-width: 108%;">
+      <img src="../images/ds1_pic5.PNG" alt="Configurable objects example 3" style="margin-top: 16px; border: 1px solid #ccc; border-radius: 8px; max-width: 108%;">
     </li>
   </ul>
 </div>
