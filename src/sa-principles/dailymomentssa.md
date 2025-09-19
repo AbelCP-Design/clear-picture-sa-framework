@@ -11,8 +11,12 @@
 </div>
 
 <!-- 57 Minutes Until Full Card -->
-<div id="57-min-until-full" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-  <h3 style="margin-bottom: 15px;">📱 “57 Minutes Until Full”</h3>
+<div id="card-57-min-until-full" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <!-- hidden anchor for older renderers -->
+  <span id="sec-57-min-until-full" style="position: relative; top: -80px;"></span>
+  <h3 style="margin-bottom: 15px;">
+    <a href="#sec-57-min-until-full" style="text-decoration: none; color: inherit;">📱 “57 Minutes Until Full”</a>
+  </h3>
   <p><strong>Principle:</strong> Present SA Level 2 Information Directly – Support Comprehension</p>
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     Rather than displaying voltage or just a battery percentage, the phone gives you the information that matters:<br>
@@ -20,7 +24,7 @@
     <strong>How long until full?</strong>
   </p>
     <div style="text-align: center; margin-top: 0px;">
-    <img src="../images/samoments_time_until_full.jpg" alt="Liquor Inventory Summary" width="50%" />
+    <img src="../images/samoments_time_until_full.jpg" alt="Phone showing time until battery full" width="50%" />
   </div>
 
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
@@ -30,9 +34,13 @@
     <strong>→ Imagine if a process dashboard did the same.</strong>
   </p>
 </div>
+
 <!-- Road Hazard Ahead Card -->
-<div id="road-hazard-ahead" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-  <h3 style="margin-bottom: 15px;">🚗 “Object on Road Ahead”</h3>
+<div id="card-road-hazard-ahead" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <span id="sec-road-hazard-ahead" style="position: relative; top: -80px;"></span>
+  <h3 style="margin-bottom: 15px;">
+    <a href="#sec-road-hazard-ahead" style="text-decoration: none; color: inherit;">🚗 “Object on Road Ahead”</a>
+  </h3>
   <p><strong>Principle:</strong> Provide Assistance for Level 3 SA – Support Projection</p>
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     Modern GPS systems don’t just show your route. They warn you of possible hazards ahead — an object in the road, or even a police car reported by other drivers.<br>
@@ -51,5 +59,35 @@
   </p>
 </div>
 
+<!-- SpaceX Launch Info Card -->
+<div id="card-spacex-launch-info" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <span id="sec-spacex-launch-info" style="position: relative; top: -80px;"></span>
+  <h3 style="margin-bottom: 15px;">
+    <a href="#sec-spacex-launch-info" style="text-decoration: none; color: inherit;">🚀 “A Clear Picture of Launch”</a>
+  </h3>
+  <p><strong>Principle:</strong> Maintain Persistent, Contextual Information – Support Awareness Across Phases</p>
+  <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    SpaceX live broadcasts demonstrate how a single display tile can keep the public oriented through every stage of a launch. Instead of raw telemetry, key metrics are always visible: <strong>speed, altitude, and mission elapsed time</strong>.
+  </p>
+
+  <div style="text-align: center; margin-top: 0px;">
+    <img src="../images/samoments_spacex_launchinfo.png" alt="SpaceX launch info dashboard" width="80%" />
+  </div>
+
+  <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    A timeline highlights completed milestones (e.g., Max-Q, stage separation) and anticipates upcoming ones. Simple visuals show <strong>engine state</strong> and <strong>spacecraft orientation</strong>, while widgets adapt dynamically to the phase of the mission (such as switching to an orbital view once in space).
+  </p>
+
+  <div style="text-align: center; margin-top: 0px;">
+    <img src="../images/samoments_spacex_launchinfo_2.png" alt="SpaceX launch info dashboard" width="80%" />
+  </div>
+  
+
+  <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    Though designed for public viewing, the display illustrates how <strong>persistence, context, and adaptability</strong> can maintain clear awareness. Industrial dashboards can take the same lesson: keep essentials always visible, anticipate transitions, and adapt views without disrupting current monitoring task.
+  </p>
+</div>
+
 </div>
 </div>
+
