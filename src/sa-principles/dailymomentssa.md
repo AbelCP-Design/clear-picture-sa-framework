@@ -65,7 +65,7 @@
   <h3 style="margin-bottom: 15px;">
     <a href="#sec-spacex-launch-info" style="text-decoration: none; color: inherit;">🚀 “A Clear Picture of Launch”</a>
   </h3>
-  <p><strong>Principle:</strong> Maintain Persistent, Contextual Information – Support Awareness Across Phases</p>
+  <p><strong>Principle:</strong> Maintain Situational Awareness across multiple aspects of the environment </p>
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     SpaceX live broadcasts demonstrate how a single display tile can keep the public oriented through every stage of a launch. Instead of raw telemetry, key metrics are always visible: <strong>speed, altitude, and mission elapsed time</strong>.
   </p>
@@ -84,7 +84,7 @@
   
 
   <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
-    Though designed for public viewing, the display illustrates how <strong>persistence, context, and adaptability</strong> can maintain clear awareness. Industrial dashboards can take the same lesson: keep essentials always visible, anticipate transitions, and adapt views without disrupting current monitoring task.
+    Though designed for public viewing, the display illustrates how <strong>persistence, context, and adaptability</strong> can maintain clear awareness. Industrial dashboards can take the same lesson: keep essentials always visible, anticipate transitions, and adapt views without disrupting current monitoring tasks.
   </p>
 </div>
 
