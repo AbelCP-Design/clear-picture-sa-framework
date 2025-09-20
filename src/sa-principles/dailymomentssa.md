@@ -82,9 +82,10 @@
     <img src="../images/samoments_spacex_launchinfo_2.png" alt="SpaceX launch info dashboard" width="80%" />
   </div>
   
-
   <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
-    Though designed for public viewing, the display illustrates how <strong>persistence, context, and adaptability</strong> can maintain clear awareness. Industrial dashboards can take the same lesson: keep essentials always visible, anticipate transitions, and adapt views without disrupting current monitoring tasks.
+    <strong>
+    → Imagine if industrial dashboards did the same: keeping essentials visible and adapting seamlessly as processes move through phases.
+    </strong>
   </p>
 </div>
 
