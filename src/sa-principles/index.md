@@ -41,7 +41,7 @@
       <span style="font-style: italic; font-size: 0.9em; color: #666;">"How far am I from where I should be?"</span>
     </li>
         <li style="margin-top: 14px;">
-      <a href="chunking" style="font-weight: 500;">Chunking</a><br>
+      <a href="chunking" style="font-weight: 500;">Classification</a><br>
       <span style="font-style: italic; font-size: 0.9em; color: #666;">"Can I group this information into meaningful categories?"</span>
     </li>
             <li style="margin-top: 14px;">
