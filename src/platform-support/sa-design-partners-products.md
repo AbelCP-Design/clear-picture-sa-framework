@@ -9,7 +9,7 @@
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05); display: flex; align-items: center;">
 
   <div style="flex: 0 0 120px; margin-right: 20px; text-align: center;">
-    <img src="../images/saproducts_rtglance.png" alt="RTGlance Logo" style="max-width: 100px; max-height: 100px;">
+    <img src="../images/saproducts_rtglance.PNG" alt="RTGlance Logo" style="max-width: 100px; max-height: 100px;">
   </div>
 
   <div style="flex: 1;">
