@@ -14,7 +14,7 @@
 
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 10px;">RtGlance</h3>
-    <p style="margin: 0 0 10px;">A lightweight tool for instant visibility of KPIs. Designed to provide operators with clear, at-a-glance Situation Awareness without overwhelming their daily workflow.</p>
+    <p style="margin: 0 0 10px;">A lightweight tool for instant visibility of KPIs. Designed to provide operators with clear, at-a-glance Situation Awareness without overwhelming their daily workflow..</p>
     <div style="font-size: 0.9em; margin-bottom: 10px;">
       <strong>Key SA Concepts Applied:</strong><br>
       – Information Timeliness<br>
