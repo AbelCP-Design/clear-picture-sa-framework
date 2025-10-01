@@ -33,7 +33,7 @@
 
   <h4>🎥 Demonstration Video</h4>
   <video width="650" controls>
-    <source src="../videos/ds2_demo_video.mp4" type="video/mp4">
+    <source src="/videos/ds2_demo_video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
