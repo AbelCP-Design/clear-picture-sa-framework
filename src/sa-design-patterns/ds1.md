@@ -31,7 +31,7 @@
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 25px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
   <h3 style="margin-bottom: 20px;">Pattern Demonstration</h3>
-  <p>The following demonstration illustrates Pattern 1 applied to a <strong>pipeline network monitoring dashboard</strong>. The display integrates filters, high-level summaries, and drill-down options that let operators adapt views without losing overall context.</p>
+  <p>The following demonstration illustrates this pattern applied to a <strong>pipeline network monitoring dashboard</strong>. The display integrates filters, high-level summaries, and drill-down options that let operators adapt views without losing overall context.</p>
   
   <h4>🎥 Demonstration Video</h4>
   <video width="650" controls>
