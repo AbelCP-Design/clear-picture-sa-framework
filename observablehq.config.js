@@ -12,7 +12,7 @@ export default {
         { name: "Overview", path: "sa-principles/index" },
         { name: "Information Timeliness", path: "sa-principles/information-timeliness" },
         { name: "Deviation", path: "sa-principles/deviation" },
-        { name: "Chunking", path: "sa-principles/chunking" },
+        { name: "Classification", path: "sa-principles/chunking" },
         { name: "ETA", path: "sa-principles/eta" }
       ]
     },
@@ -20,11 +20,13 @@ export default {
       name: "SA Design Patterns",
       pages: [
         { name: "Overview", path: "sa-design-patterns/index" },
-        { name: "Pattern 1", path: "sa-design-patterns/ds1" }
+        { name: "User-Driven & Flexibility", path: "sa-design-patterns/ds1" },
+        { name: "High-Level & Drill-Down", path: "sa-design-patterns/ds2" }
       ]
     },
   { name: "Implemented Designs", path: "implemented-designs/implementeddesigns" },
   { name: "Daily Moments of SA", path: "sa-principles/dailymomentssa" },
+  //{ name: "SA Designed Products", path: "platform-support/sa-design-partners-products" },
   { name: "SA Vendor Listing", path: "platform-support/sa-vendor-listing" },
   {
       name: "Design Approach",

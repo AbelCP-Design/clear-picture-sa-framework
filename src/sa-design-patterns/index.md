@@ -21,10 +21,13 @@
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <h3 style="margin-bottom: 20px;">Current SA Design Patterns</h3>
   <ul style="list-style: none; padding-left: 0;">
-    <li>
-      <a href="ds1" style="font-weight: 500;">Pattern 1: User-Driven & Flexible Displays</a><br>
-      <span style="font-style: italic; font-size: 0.9em; color: #666;">Keeping users in control while displays adapt to changing goal priorities without breaking their flow.</span>
+    <li style="margin-bottom: 18px;">
+      <a href="ds1" style="font-weight: 500;">User-Driven & Flexible Displays</a><br>
+      <span style="font-style: italic; font-size: 0.9em; color: #666;">Keep users in control while displays adapt to shifting goal priorities without breaking their flow.</span>
     </li>
-    <!-- Future patterns can be added here as you develop them -->
+    <li>
+      <a href="ds2" style="font-weight: 500;">High-Level Overview & Drill-Down</a><br>
+      <span style="font-style: italic; font-size: 0.9em; color: #666;">Maintain a persistent big-picture view and reveal details on demand, linking overview to context-specific panels.</span>
+    </li>
   </ul>
 </div>
