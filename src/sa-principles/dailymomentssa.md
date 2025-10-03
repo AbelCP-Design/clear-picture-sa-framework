@@ -12,7 +12,6 @@
 
 <!-- 57 Minutes Until Full Card -->
 <div id="card-57-min-until-full" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-  <!-- hidden anchor for older renderers -->
   <span id="sec-57-min-until-full" style="position: relative; top: -80px;"></span>
   <h3 style="margin-bottom: 15px;">
     <a href="#sec-57-min-until-full" style="text-decoration: none; color: inherit;">📱 “57 Minutes Until Full”</a>
@@ -89,6 +88,32 @@
   </p>
 </div>
 
+<!-- MLB Scoreboard Card -->
+<div id="card-mlb-scoreboard" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <span id="sec-mlb-scoreboard" style="position: relative; top: -80px;"></span>
+  <h3 style="margin-bottom: 15px;">
+    <a href="#sec-mlb-scoreboard" style="text-decoration: none; color: inherit;">⚾ “A Clear Picture of the Game”</a>
+  </h3>
+  <p><strong>Principle:</strong> Support Global SA – Provide the “Big Picture”</p>
+  <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    While watching a Major League Baseball playoff game, notice how the scoreboard graphic tells you exactly what you need to understand the situation:<br>
+    <span style="display:block; height:7.5px;"></span>
+    <strong>Score, base runners, balls, strikes, outs, inning, pitcher, and batter.</strong>
+  </p>
+    <div style="text-align: center; margin-top: 0px;">
+    <img src="../images/samoments_mlb_scoreboard.jpeg" alt="MLB scoreboard showing score, bases, count, outs, inning, pitcher and batter" width="60%" />
+  </div>
+
+  <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    Sure, there are many more statistics available (like fielder’s choice), but to engage with the game <em>right now</em>, this summary provides the global SA needed to follow the action. It discourages attentional narrowing by ensuring the essentials are always visible.
+  </p>
+  
+  <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    <strong>→ Imagine if real-time industrial dashboards followed the same approach: providing the big-picture of the situation, while still allowing drill-down for detailed analysis when necessary.</strong>
+  </p>
+</div>
+
 </div>
 </div>
+
 
