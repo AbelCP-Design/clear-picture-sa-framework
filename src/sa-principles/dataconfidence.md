@@ -114,11 +114,11 @@ Evaluate how well the platform helps users *see reliability at a glance* — can
 | **Version Tested** | Ignition 8.1.x (Perspective) |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
-  <img src="../images/uncertainty_ignition_1.png" width="100%" style="margin-bottom: 30px;" />
-  <img src="../images/uncertainty_ignition_2.png" width="100%" style="margin-bottom: 30px;" />
-  <img src="../images/uncertainty_ignition_3.png" width="100%" style="margin-bottom: 30px;" />
-  <img src="../images/uncertainty_ignition_4.png" width="70%" style="margin-bottom: 30px;" />
-  <img src="../images/uncertainty_ignition_5.png" width="70%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_ignition_1.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_ignition_2.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_ignition_3.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_ignition_4.PNG" width="70%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_ignition_5.PNG" width="70%" style="margin-bottom: 30px;" />
 </div>
 
 #### Upcoming Vendor Testing
