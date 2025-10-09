@@ -40,13 +40,17 @@
       <a href="deviation" style="font-weight: 500;">Deviation</a><br>
       <span style="font-style: italic; font-size: 0.9em; color: #666;">"How far am I from where I should be?"</span>
     </li>
-        <li style="margin-top: 14px;">
+    <li style="margin-top: 14px;">
       <a href="chunking" style="font-weight: 500;">Classification</a><br>
       <span style="font-style: italic; font-size: 0.9em; color: #666;">"Can I group this information into meaningful categories?"</span>
     </li>
-            <li style="margin-top: 14px;">
+    <li style="margin-top: 14px;">
       <a href="eta" style="font-weight: 500;">ETA</a><br>
       <span style="font-style: italic; font-size: 0.9em; color: #666;">"How long until a critical state is reached?"</span>
+    </li>
+    <li style="margin-top: 14px;">
+      <a href="dataconfidence" style="font-weight: 500;">Data Confidence</a><br>
+      <span style="font-style: italic; font-size: 0.9em; color: #666;">"How much trust should I place in this data?"</span>
     </li>
   </ul>
 </div>

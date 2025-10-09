@@ -13,7 +13,8 @@ export default {
         { name: "Information Timeliness", path: "sa-principles/information-timeliness" },
         { name: "Deviation", path: "sa-principles/deviation" },
         { name: "Classification", path: "sa-principles/chunking" },
-        { name: "ETA", path: "sa-principles/eta" }
+        { name: "ETA", path: "sa-principles/eta" },
+        { name: "Data Confidence", path: "sa-principles/dataconfidence" }
       ]
     },
         {
