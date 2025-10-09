@@ -1,9 +1,15 @@
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="../images/information_timeliness_infographic_2.png" alt="Information Timeliness Infographic" width="70%" />
   <div style="font-size: 0.9em; color: #888; text-align: center; margin-top: 10px; margin-bottom: 20px;">
-    Supports Certainty
+    Supports Perception & Comprehension
   </div>
 </div>
+
+<div style="border-left: 3px solid #ccc; padding: 10px 20px; margin-bottom: 30px; background-color: #f9f9f9; border-radius: 6px; font-size: 0.9em; color: #555;">
+  <em>Note: “Information Timeliness” represents one form of data uncertainty.  
+  At a later stage, this concept will be merged into a new <strong>Uncertainty Representation</strong></a> SA Concept, to provide a more integrated description of information reliability.</em>
+</div>
+
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px 20px 30px 20px; margin: 30px 0 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 
@@ -139,5 +145,3 @@ Consider a pipeline network monitoring dashboard where equipment symbols fade if
 <div style="margin-top: 40px; font-size: 0.9em; color: #666;">
 See which platforms have been tested for each SA concept in the <a href="../platform-support/sa-vendor-listing" style="text-decoration: none;">SA Vendor Listing</a>.
 </div>
-
-

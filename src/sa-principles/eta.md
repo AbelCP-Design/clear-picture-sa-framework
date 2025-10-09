@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="../images/eta_infographic.PNG" alt="Estimated Time to Full/Empty (ETA) Infographic" width="70%" />
+  <img src="../images/eta_infographic.PNG" alt="Estimated Time to Full/Empty (ETA) Infographic" width="60%" />
   <div style="font-size: 0.9em; color: #888; text-align: center; margin-top: 10px; margin-bottom: 20px;">
     Supports Projection
   </div>

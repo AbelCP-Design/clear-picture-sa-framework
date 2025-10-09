@@ -27,6 +27,7 @@ The matrix below summarizes which platforms have been tested for each SA concept
 | [Deviation ( Duration + Limits )](../sa-principles/deviation#use-case-for-platform-testing-2) | ✅ | ✅ | ✅ |
 | [Classification](../sa-principles/chunking#use-case-for-platform-testing) | ⬜ | ✅ | ✅ |
 | [ETA](../sa-principles/eta#use-case-for-platform-testing) | ✅ | ✅ | ⬜ |
+| [Data Confidence](../sa-principles/dataconfidence#use-case-for-platform-testing) | ⬜ | ✅ | ⬜ |
 
 <div style="height:10px;"></div>
 
