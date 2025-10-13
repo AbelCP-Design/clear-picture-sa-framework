@@ -25,6 +25,10 @@
     <div style="text-align: center; margin-top: 0px;">
     <img src="../images/samoments_time_until_full.jpg" alt="Phone showing time until battery full" width="50%" />
   </div>
+  <p style="font-size: 0.75em; color: #999; text-align: center; margin-top: 6px;">
+  Image: Author’s own screenshot.
+</p>
+
 
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     This is Level 2 SA: Comprehension. It reduces the mental effort needed to interpret raw data and helps you plan your day quickly.
@@ -49,6 +53,10 @@
     <div style="text-align: center; margin-top: 0px;">
     <img src="../images/samoments_object_on_road.PNG" alt="GPS road hazard warning" width="50%" />
   </div>
+  <p style="font-size: 0.75em; color: #999; text-align: center; margin-top: 6px;">
+  Image generated with ChatGPT.
+</p>
+
 
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     This is Level 3 SA: Projection. The display gives you a picture of what <em>might</em> happen ahead, so you can prepare before it becomes urgent.
@@ -72,6 +80,10 @@
   <div style="text-align: center; margin-top: 0px;">
     <img src="../images/samoments_spacex_launchinfo.png" alt="SpaceX launch info dashboard" width="80%" />
   </div>
+  <p style="font-size: 0.75em; color: #999; text-align: center; margin-top: 6px;">
+  Image source: SpaceX YouTube livestream.
+</p>
+
 
   <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     A timeline highlights completed milestones (e.g., Max-Q, stage separation) and anticipates upcoming ones. Simple visuals show <strong>engine state</strong> and <strong>spacecraft orientation</strong>, while widgets adapt dynamically to the phase of the mission (such as switching to an orbital view once in space).
@@ -103,6 +115,9 @@
     <div style="text-align: center; margin-top: 0px;">
     <img src="../images/samoments_mlb_scoreboard.jpeg" alt="MLB scoreboard showing score, bases, count, outs, inning, pitcher and batter" width="60%" />
   </div>
+  <p style="font-size: 0.75em; color: #999; text-align: center; margin-top: 6px;">
+  Image source: Screenshot from MLB television broadcast.
+</p>
 
   <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     Sure, there are many more statistics available (like fielder’s choice), but to engage with the game <em>right now</em>, this summary provides the global SA needed to follow the action. It discourages attentional narrowing by ensuring the essentials are always visible.
@@ -110,6 +125,41 @@
   
   <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     <strong>→ Imagine if real-time industrial dashboards followed the same approach: providing the big-picture of the situation, while still allowing drill-down for detailed analysis when necessary.</strong>
+  </p>
+</div>
+
+<!-- Automation Explaining Itself Card -->
+<div id="card-automation-explaining-itself" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <span id="sec-automation-explaining-itself" style="position: relative; top: -80px;"></span>
+  <h3 style="margin-bottom: 15px;">
+    <a href="#sec-automation-explaining-itself" style="text-decoration: none; color: inherit;">🤖 “When Automation Explains Itself”</a>
+  </h3>
+  <p><strong>Principle:</strong> Provide Automation Transparency and Explainability</p>
+  
+  <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    Tesla’s Autopilot visualization gives drivers a window into what the automation “sees.” 
+    Every blue line, gray car, and bounding box reveals how the system is perceiving and understanding the environment in real time.
+  </p>
+
+  <div style="text-align: center; margin-top: 0px;">
+    <img src="../images/samoments_automationexplainingitself.jpg" alt="Tesla Autopilot visualization showing cars and lanes detected" width="60%" />
+    <p style="font-size: 0.8em; color: #777; margin-top: 5px;">Image source: <a href="https://www.teslarati.com/tesla-autopilot-vehicle-lane-detection-off-ramp/" target="_blank" style="color: #777; text-decoration: underline;">Teslarati</a></p>
+  </div>
+
+  <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    Instead of being a black box, the automation is <strong>expressing its awareness</strong>. 
+    This helps drivers:
+    <ul style="margin-left: 20px;">
+      <li><strong>Verify perception:</strong> “It sees that car ahead.”</li>
+      <li><strong>Comprehend behavior:</strong> “It’s braking because it detected slowing traffic.”</li>
+      <li><strong>Project next actions:</strong> “It will stay centered in its lane.”</li>
+    </ul>
+  </p>
+
+  <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    Automation that reveals its own SA helps humans maintain theirs — supporting trust, comprehension, and readiness to intervene.<br>
+  <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    <strong>→ Imagine if industrial AI systems showed their awareness like this — helping operators stay in the loop for shared understanding and control.</strong>
   </p>
 </div>
 
