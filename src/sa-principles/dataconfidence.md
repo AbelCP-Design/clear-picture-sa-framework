@@ -130,11 +130,11 @@ Evaluate how well the platform helps users *see reliability at a glance* — can
 | **Version Tested** | 10.0.1.464 |
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
-  <img src="../images/uncertainty_frameworx_1.png" width="100%" style="margin-bottom: 30px;" />
-  <img src="../images/uncertainty_frameworx_2.png" width="100%" style="margin-bottom: 30px;" />
-  <img src="../images/uncertainty_frameworx_3.png" width="100%" style="margin-bottom: 30px;" />
-  <img src="../images/uncertainty_frameworx_4.png" width="70%" style="margin-bottom: 30px;" />
-  <img src="../images/uncertainty_frameworx_5.png" width="70%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_frameworx_1.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_frameworx_2.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_frameworx_3.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_frameworx_4.PNG" width="70%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_frameworx_5.PNG" width="70%" style="margin-bottom: 30px;" />
 </div>
 
 #### Upcoming Vendor Testing
