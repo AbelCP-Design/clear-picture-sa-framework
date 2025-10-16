@@ -121,10 +121,25 @@ Evaluate how well the platform helps users *see reliability at a glance* — can
   <img src="../images/uncertainty_ignition_5.PNG" width="70%" style="margin-bottom: 30px;" />
 </div>
 
+#### ✅ Tatsoft FrameworX — Supports Confidence Representation
+
+| Aspect | Notes |
+| ------ | ----- |
+| **Implementation Approach** | Four simulated tanks generate random level values within a configurable range. Each tank includes a *Hold Updates* toggle that pauses data changes, allowing its **Age (min)** to increase. A decaying confidence function reduces reliability as the age approaches a configurable threshold (`Conf_StaleAfterMin`). |
+| **Display Build** | • Real-time simulation script built in a **Periodic Task** updates tank levels and confidence values.<br>• Each tank includes an individual confidence percentage and a *Hold* switch to simulate stale data.<br>• A **Total Confidence Bar** dynamically adjusts from 100 → 0 % based on the average of all active tanks.<br>• Once a tank exceeds its staleness threshold, its `Tank#Stale` flag activates and the total confidence drops proportionally. |
+| **Version Tested** | 10.0.1.464 |
+
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 30px;">
+  <img src="../images/uncertainty_frameworx_1.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_frameworx_2.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_frameworx_3.PNG" width="100%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_frameworx_4.PNG" width="70%" style="margin-bottom: 30px;" />
+  <img src="../images/uncertainty_frameworx_5.PNG" width="70%" style="margin-bottom: 30px;" />
+</div>
+
 #### Upcoming Vendor Testing
 
-- Tatsoft FrameworX  
-- AVEVA PI Vision  
+- TBD 
 
 </div>
 
