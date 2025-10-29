@@ -172,12 +172,13 @@
 <div id="card-andon-display" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <span id="sec-andon-display" style="position: relative; top: -80px;"></span>
   <h3 style="margin-bottom: 15px;">
-    <a href="#sec-andon-display" style="text-decoration: none; color: inherit;">🏭 “A Common Picture for the Team”</a>
+    <a href="#sec-andon-display" style="text-decoration: none; color: inherit;">🏭 “A Common Picture for the Process”</a>
   </h3>
-  <p><strong>Principle:</strong> Support Global SA – Provide the “Big Picture” for Team Operations</p>
+  <p><strong>Principle:</strong> Support Global SA – Provide the “Big Picture”</p>
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
-    In busy industrial environments, it’s easy for attention to narrow toward one station or one task. 
-    To keep everyone aligned, teams rely on displays that maintain a shared picture of the whole process.
+    In complex industrial settings, attention can easily narrow toward one station or one variable, 
+    causing important changes elsewhere to go unnoticed. Displays that maintain visibility of the overall process 
+    help prevent this by keeping the “big picture” in view.
   </p>
 
   <div style="text-align:center; margin-top:0;">
@@ -191,16 +192,18 @@
   </div>
 
   <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
-    Andon displays serve as <strong>central overview displays</strong> that support <strong>Global Situation Awareness</strong>—providing a visible, real-time summary 
-    of the process that keeps all roles aligned. They reveal which stations are running or stopped, where attention is needed, 
-    and help discourage attentional narrowing by keeping the “big picture” visible at all times.
+    Andon displays act as <strong>central overview displays</strong> that support <strong>Global Situation Awareness</strong>—providing a high-level, 
+    always-visible summary of plant status. By showing which stations are running, stopped, or signaling for help, 
+    they help operators maintain awareness of the whole system, reduce attentional narrowing, and support better prioritization 
+    of goals and responses.
   </p>
 
   <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
-    <strong>→ Imagine if digital dashboards did the same: maintaining a persistent, high-level view that helps teams 
-    quickly determine which goals need attention first — and anticipate what’s likely to happen next.</strong>
+    <strong>→ Imagine if digital dashboards did the same: maintaining a persistent overview that helps users stay oriented, 
+    focus on high priority tasks, and anticipate what might happen next.</strong>
   </p>
 </div>
+
 
 
 </div>
