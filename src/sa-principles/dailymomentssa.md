@@ -22,13 +22,13 @@
     <span style="display:block; height:7.5px;"></span>
     <strong>How long until full?</strong>
   </p>
-    <div style="text-align: center; margin-top: 0px;">
-    <img src="../images/samoments_time_until_full.jpg" alt="Phone showing time until battery full" width="50%" />
-  </div>
-  <p style="font-size: 0.75em; color: #999; text-align: center; margin-top: 6px;">
-  Image: Author’s own screenshot.
-</p>
 
+  <div style="text-align:center; margin-top:0;">
+    <figure style="width:50%; margin:0 auto; text-align:center;">
+      <img src="../images/samoments_time_until_full.jpg" alt="Phone showing time until battery full" style="display:block; width:100%; height:auto; margin:0 auto;" />
+      <figcaption style="font-size:0.75em; color:#999; margin-top:6px;">Image: Author’s own screenshot.</figcaption>
+    </figure>
+  </div>
 
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     This is Level 2 SA: Comprehension. It reduces the mental effort needed to interpret raw data and helps you plan your day quickly.
@@ -50,13 +50,13 @@
     <span style="display:block; height:7.5px;"></span>
     This forward-looking cue changes how you drive: you might adjust speed, watch nearby lanes, and stay alert for sudden maneuvers. If the hazard is gone, you can even update the system for others.
   </p>
-    <div style="text-align: center; margin-top: 0px;">
-    <img src="../images/samoments_object_on_road.PNG" alt="GPS road hazard warning" width="50%" />
-  </div>
-  <p style="font-size: 0.75em; color: #999; text-align: center; margin-top: 6px;">
-  Image generated with ChatGPT.
-</p>
 
+  <div style="text-align:center; margin-top:0;">
+    <figure style="width:50%; margin:0 auto; text-align:center;">
+      <img src="../images/samoments_object_on_road.PNG" alt="GPS road hazard warning" style="display:block; width:100%; height:auto; margin:0 auto;" />
+      <figcaption style="font-size:0.75em; color:#999; margin-top:6px;">Image generated with ChatGPT.</figcaption>
+    </figure>
+  </div>
 
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     This is Level 3 SA: Projection. The display gives you a picture of what <em>might</em> happen ahead, so you can prepare before it becomes urgent.
@@ -77,20 +77,19 @@
     SpaceX live broadcasts demonstrate how a single display tile can keep the public oriented through every stage of a launch. Instead of raw telemetry, key metrics are always visible: <strong>speed, altitude, and mission elapsed time</strong>.
   </p>
 
-  <div style="text-align: center; margin-top: 0px;">
-    <img src="../images/samoments_spacex_launchinfo.png" alt="SpaceX launch info dashboard" width="80%" />
+  <div style="text-align:center; margin-top:0;">
+    <figure style="width:80%; margin:0 auto; text-align:center;">
+      <img src="../images/samoments_spacex_launchinfo.png" alt="SpaceX launch info dashboard" style="display:block; width:100%; height:auto; margin:0 auto;" />
+      <figcaption style="font-size:0.75em; color:#999; margin-top:6px;">Image source: SpaceX YouTube livestream.</figcaption>
+    </figure>
   </div>
-  <p style="font-size: 0.75em; color: #999; text-align: center; margin-top: 6px;">
-  Image source: SpaceX YouTube livestream.
-</p>
-
 
   <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     A timeline highlights completed milestones (e.g., Max-Q, stage separation) and anticipates upcoming ones. Simple visuals show <strong>engine state</strong> and <strong>spacecraft orientation</strong>, while widgets adapt dynamically to the phase of the mission (such as switching to an orbital view once in space).
   </p>
 
-  <div style="text-align: center; margin-top: 0px;">
-    <img src="../images/samoments_spacex_launchinfo_2.png" alt="SpaceX launch info dashboard" width="80%" />
+  <div style="text-align:center; margin-top:0;">
+    <img src="../images/samoments_spacex_launchinfo_2.png" alt="SpaceX launch info dashboard" style="width:80%; height:auto;" />
   </div>
   
   <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
@@ -112,12 +111,13 @@
     <span style="display:block; height:7.5px;"></span>
     <strong>Score, base runners, balls, strikes, outs, inning, pitcher, and batter.</strong>
   </p>
-    <div style="text-align: center; margin-top: 0px;">
-    <img src="../images/samoments_mlb_scoreboard.jpeg" alt="MLB scoreboard showing score, bases, count, outs, inning, pitcher and batter" width="60%" />
+
+  <div style="text-align:center; margin-top:0;">
+    <figure style="width:60%; margin:0 auto; text-align:center;">
+      <img src="../images/samoments_mlb_scoreboard.jpeg" alt="MLB scoreboard showing score, bases, count, outs, inning, pitcher and batter" style="display:block; width:100%; height:auto; margin:0 auto;" />
+      <figcaption style="font-size:0.75em; color:#999; margin-top:6px;">Image source: Screenshot from MLB television broadcast.</figcaption>
+    </figure>
   </div>
-  <p style="font-size: 0.75em; color: #999; text-align: center; margin-top: 6px;">
-  Image source: Screenshot from MLB television broadcast.
-</p>
 
   <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     Sure, there are many more statistics available (like fielder’s choice), but to engage with the game <em>right now</em>, this summary provides the global SA needed to follow the action. It discourages attentional narrowing by ensuring the essentials are always visible.
@@ -141,9 +141,14 @@
     Every blue line, gray car, and bounding box reveals how the system is perceiving and understanding the environment in real time.
   </p>
 
-  <div style="text-align: center; margin-top: 0px;">
-    <img src="../images/samoments_automationexplainingitself.jpg" alt="Tesla Autopilot visualization showing cars and lanes detected" width="60%" />
-    <p style="font-size: 0.8em; color: #777; margin-top: 5px;">Image source: <a href="https://www.teslarati.com/tesla-autopilot-vehicle-lane-detection-off-ramp/" target="_blank" style="color: #777; text-decoration: underline;">Teslarati</a></p>
+  <div style="text-align:center; margin-top:0;">
+    <figure style="width:60%; margin:0 auto; text-align:center;">
+      <img src="../images/samoments_automationexplainingitself.jpg" alt="Tesla Autopilot visualization showing cars and lanes detected" style="display:block; width:100%; height:auto; margin:0 auto;" />
+      <figcaption style="font-size:0.8em; color:#777; margin-top:5px;">
+        Image source:
+        <a href="https://www.teslarati.com/tesla-autopilot-vehicle-lane-detection-off-ramp/" target="_blank" style="color:#777; text-decoration: underline;">Teslarati</a>
+      </figcaption>
+    </figure>
   </div>
 
   <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
@@ -175,12 +180,15 @@
     To keep everyone aligned, teams rely on displays that maintain a shared mental picture of the whole process.
   </p>
 
-  <div style="text-align: center; margin-top: 0px;">
-    <img src="../images/samoments_a_commonpicture.jpg" alt="Factory Andon display board showing process status across workstations" width="70%" />
+  <div style="text-align:center; margin-top:0;">
+    <figure style="width:70%; margin:0 auto; text-align:center;">
+      <img src="../images/samoments_a_commonpicture.jpg" alt="Factory Andon display board showing process status across workstations" style="display:block; width:100%; height:auto; margin:0 auto;" />
+      <figcaption style="font-size:0.75em; color:#999; margin-top:6px;">
+        Image source:
+        <a href="https://brandmaier.com/en/industrie/andon-boards/" target="_blank" style="color:#999; text-decoration: underline;">Brandmaier Andon Boards</a>
+      </figcaption>
+    </figure>
   </div>
-  <p style="font-size: 0.75em; color: #999; text-align: center; margin-top: 6px;">
-    Image source: <a href="https://brandmaier.com/en/industrie/andon-boards/" target="_blank" style="color: #999; text-decoration: underline;">Brandmaier Andon Boards</a>
-  </p>
 
   <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     Andon displays act as a <strong>Common Operating Picture (COP)</strong>—a real-time overview that helps operators, engineers, and supervisors 
@@ -194,8 +202,5 @@
   </p>
 </div>
 
-
 </div>
 </div>
-
-
