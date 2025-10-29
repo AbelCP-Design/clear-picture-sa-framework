@@ -200,7 +200,7 @@
 
   <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     <strong>→ Imagine if digital dashboards did the same: maintaining a persistent overview that helps users stay oriented, 
-    help determined high priority tasks, and anticipate what might happen next.</strong>
+    help determine high priority tasks, and anticipate what might happen next.</strong>
   </p>
 </div>
 
