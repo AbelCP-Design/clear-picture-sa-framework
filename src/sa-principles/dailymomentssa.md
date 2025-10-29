@@ -177,7 +177,7 @@
   <p><strong>Principle:</strong> Support Global SA – Provide the “Big Picture” for Team Operations</p>
   <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     In busy industrial environments, it’s easy for attention to narrow toward one station or one task. 
-    To keep everyone aligned, teams rely on displays that maintain a shared mental picture of the whole process.
+    To keep everyone aligned, teams rely on displays that maintain a shared picture of the whole process.
   </p>
 
   <div style="text-align:center; margin-top:0;">
@@ -191,16 +191,17 @@
   </div>
 
   <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
-    Andon displays act as a <strong>Common Operating Picture (COP)</strong>—a real-time overview that helps operators, engineers, and supervisors 
-    see the same situation at once. They reveal which stations are stopped, which are producing, and where attention is needed, 
-    discouraging attentional narrowing and fostering shared awareness across the team.
+    Andon displays serve as <strong>central overview displays</strong> that support <strong>Global Situation Awareness</strong>—providing a visible, real-time summary 
+    of the process that keeps all roles aligned. They reveal which stations are running or stopped, where attention is needed, 
+    and help discourage attentional narrowing by keeping the “big picture” visible at all times.
   </p>
 
   <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
-    <strong>→ Imagine if digital dashboards did the same: maintaining a persistent, shared “big picture” 
-    that keeps every team member oriented—without having to ask what’s happening elsewhere.</strong>
+    <strong>→ Imagine if digital dashboards did the same: maintaining a persistent, high-level view that helps teams 
+    quickly determine which goals need attention first — and anticipate what’s likely to happen next.</strong>
   </p>
 </div>
+
 
 </div>
 </div>
