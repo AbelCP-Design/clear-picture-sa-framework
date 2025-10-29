@@ -163,6 +163,38 @@
   </p>
 </div>
 
+<!-- Andon Display Card -->
+<div id="card-andon-display" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <span id="sec-andon-display" style="position: relative; top: -80px;"></span>
+  <h3 style="margin-bottom: 15px;">
+    <a href="#sec-andon-display" style="text-decoration: none; color: inherit;">🏭 “A Common Picture for the Team”</a>
+  </h3>
+  <p><strong>Principle:</strong> Support Global SA – Provide the “Big Picture” for Team Operations</p>
+  <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    In busy industrial environments, it’s easy for attention to narrow toward one station or one task. 
+    To keep everyone aligned, teams rely on displays that maintain a shared mental picture of the whole process.
+  </p>
+
+  <div style="text-align: center; margin-top: 0px;">
+    <img src="../images/samoments_a_commonpicture.jpg" alt="Factory Andon display board showing process status across workstations" width="70%" />
+  </div>
+  <p style="font-size: 0.75em; color: #999; text-align: center; margin-top: 6px;">
+    Image source: <a href="https://brandmaier.com/en/industrie/andon-boards/" target="_blank" style="color: #999; text-decoration: underline;">Brandmaier Andon Boards</a>
+  </p>
+
+  <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    Andon displays act as a <strong>Common Operating Picture (COP)</strong>—a real-time overview that helps operators, engineers, and supervisors 
+    see the same situation at once. They reveal which stations are stopped, which are producing, and where attention is needed, 
+    discouraging attentional narrowing and fostering shared awareness across the team.
+  </p>
+
+  <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    <strong>→ Imagine if digital dashboards did the same: maintaining a persistent, shared “big picture” 
+    that keeps every team member oriented—without having to ask what’s happening elsewhere.</strong>
+  </p>
+</div>
+
+
 </div>
 </div>
 
