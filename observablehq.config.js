@@ -30,11 +30,11 @@ export default {
   //{ name: "SA Designed Products", path: "platform-support/sa-design-partners-products" },
   { name: "SA Vendor Listing", path: "platform-support/sa-vendor-listing" },
   {
-      name: "Design Approach",
+      name: "Approach",
       pages: [
-        { name: "Introduction", path: "design-approach/introduction" },
-        { name: "Methodology", path: "design-approach/methodology" },
-        { name: "Vendor Participation & Feedback", path: "design-approach/vendor-participation" }
+        { name: "Overview", path: "design-approach/introduction" },
+        { name: "Let’s Explore Your Dashboard", path: "design-approach/lets-explore-your-dashboard" },
+        //{ name: "Vendor Participation & Feedback", path: "design-approach/vendor-participation" }
       ]
     },
     {
