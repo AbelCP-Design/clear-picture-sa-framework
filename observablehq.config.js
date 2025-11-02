@@ -27,7 +27,7 @@ export default {
     },
   { name: "Implemented Designs", path: "implemented-designs/implementeddesigns" },
   { name: "Daily Moments of SA", path: "sa-principles/dailymomentssa" },
-  //{ name: "SA Designed Products", path: "platform-support/sa-design-partners-products" },
+  { name: "Awareness Futures", path: "others/awareness_futures" },
   { name: "SA Vendor Listing", path: "platform-support/sa-vendor-listing" },
   {
       name: "Approach",
