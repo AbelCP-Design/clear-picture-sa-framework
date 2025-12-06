@@ -13,7 +13,7 @@ information consistently across assets.
       Note:
     </p>
     <p style="font-size: 0.85em; color: #777; margin: 0; padding-top: 4px; margin-bottom: 1px; line-height: 1.2;">
-      To view dashboard video/images in a larger format, right-click on the picture and select <em>"Open Image in New Tab."</em>
+      To view dashboard images in a larger format, right-click on the picture and select <em>"Open Image in New Tab."</em>
     </p>
 </div>
 </div>
