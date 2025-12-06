@@ -22,7 +22,8 @@ export default {
       pages: [
         { name: "Overview", path: "sa-design-patterns/index" },
         { name: "User-Driven & Flexibility", path: "sa-design-patterns/ds1" },
-        { name: "High-Level & Drill-Down", path: "sa-design-patterns/ds2" }
+        { name: "High-Level & Drill-Down", path: "sa-design-patterns/ds2" },
+        { name: "Multi-Asset Overview", path: "sa-design-patterns/ds3" }
       ]
     },
   { name: "Implemented Designs", path: "implemented-designs/implementeddesigns" },

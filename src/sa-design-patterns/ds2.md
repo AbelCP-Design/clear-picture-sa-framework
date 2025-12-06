@@ -7,6 +7,13 @@
       this pattern emphasizes keeping a <strong>high-level picture always visible</strong>, while enabling operators
       to drill down into details only when needed.
     </p>
+        </p>
+        <p style="font-size: 0.85em; color: #777; margin: 0; padding-top: 30px; margin-bottom: 0px; line-height: 1.2;">
+      Note:
+    </p>
+    <p style="font-size: 0.85em; color: #777; margin: 0; padding-top: 4px; margin-bottom: 1px; line-height: 1.2;">
+      To view dashboard video/images in a larger format, right-click on the picture and select <em>"Open Image in New Tab."</em>
+    </p>
   </div>
 </div>
 
@@ -55,7 +62,7 @@ Operators view a high-level map of the system, while detail panes (trends, alarm
   Your browser does not support the video tag.
 </video>
 
-<h4 style="margin-top:25px;">📷 Dashboard Examples</h4>
+<h4 style="margin-top:25px;">📷 Dashboard Views</h4>
 <ul style="list-style:none;padding-left:0;max-width:none;">
   <li><strong>Overview:</strong> System-wide state always visible. This supports global Situation Awareness.<br>
     <img src="../images/ds2_pic1.PNG" alt="Pipeline network monitoring overview"
