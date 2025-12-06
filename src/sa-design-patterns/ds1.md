@@ -7,6 +7,12 @@
       this pattern emphasizes giving operators <strong>control over what information is displayed</strong>, while
       ensuring displays adapt fluidly to changing goal priorities.
     </p>
+        <p style="font-size: 0.85em; color: #777; margin: 0; padding-top: 30px; margin-bottom: 0px; line-height: 1.2;">
+      Note:
+    </p>
+    <p style="font-size: 0.85em; color: #777; margin: 0; padding-top: 4px; margin-bottom: 1px; line-height: 1.2;">
+      To view dashboard images in a larger format, right-click on the picture and select <em>"Open Image in New Tab."</em>
+    </p>
   </div>
 </div>
 
@@ -56,7 +62,7 @@ losing overall context.
   Your browser does not support the video tag.
 </video>
 
-<h4 style="margin-top:25px;">📷 Dashboard Examples</h4>
+<h4 style="margin-top:25px;">📷 Dashboard Views</h4>
 <ul style="list-style:none;padding-left:0;max-width:none;">
   <li><strong>Base View:</strong> All filters off — global picture visible.<br>
     <img src="../images/ds1_pic1.PNG" alt="Dashboard base view"
