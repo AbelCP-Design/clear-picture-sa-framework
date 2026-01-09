@@ -7,7 +7,7 @@
   <div style="max-width: 700px; margin: 0 auto;">
     <h1 style="margin-bottom: 25px;">Did You Know...</h1>
     <p>
-      Short, evidence-based notes that connect human factors research to practical dashboard design.<br>
+      Short, evidence-based notes that connect human cognitive research to practical dashboard design.<br>
       Each card includes a clear takeaway you can apply immediately.
     </p>
   </div>
