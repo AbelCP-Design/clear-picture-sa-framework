@@ -31,7 +31,7 @@
 
   <div style="text-align:center; margin-top:0;">
     <figure style="width:85%; margin:0 auto; text-align:center;">
-      <img src="../images/didyouknow_1.png" alt="Vertical gauge showing pressure in priority 1 alarm state as well as alarm duration" style="display:block; width:15%; height:auto; margin:0 auto;" />
+      <img src="../images/didyouknow_1.PNG" alt="Vertical gauge showing pressure in priority 1 alarm state as well as alarm duration" style="display:block; width:15%; height:auto; margin:0 auto;" />
       <figcaption style="font-size:0.75em; color:#999; margin-top:6px;">Vertical gauge showing pressure in priority 1 alarm state as well as alarm duration</figcaption>
     </figure>
   </div>
