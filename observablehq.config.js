@@ -28,6 +28,7 @@ export default {
     },
   { name: "Implemented Designs", path: "implemented-designs/implementeddesigns" },
   { name: "SA Enemies", path: "others/saenemies" },
+  { name: "Did you know...", path: "sa-principles/didyouknow" },
   { name: "Daily Moments of SA", path: "sa-principles/dailymomentssa" },
   { name: "Awareness Futures", path: "others/awareness_futures" },
   { name: "SA Vendor Listing", path: "platform-support/sa-vendor-listing" },
