@@ -13,6 +13,20 @@ Clear Picture SA is both a <strong>framework</strong> and a <strong>studio</stro
 </div>
 </div>
 
+<!-- Mission -->
+<div style="border:1px solid #ddd;border-radius:10px;padding:30px 20px;margin:30px 0;background:#fafafa;box-shadow:0 2px 4px rgba(0,0,0,.05);">
+<div style="max-width:1200px;margin:0 auto;">
+<h3>Mission</h3>
+<p style="max-width:none;">
+Clear Picture SA exists to increase the clarity people gain from complex systems — without increasing mental effort.
+</p>
+<p style="max-width:none;">
+The framework advances <strong>Situation Awareness–oriented design</strong> by translating cognitive research into practical, observable visualization patterns —
+helping industrial teams <strong>reduce mental effort</strong>, <strong>see what matters sooner</strong>, and <strong>make better decisions under real operating conditions</strong>.
+</p>
+</div>
+</div>
+
 <!-- What is Clear Picture SA -->
 <div style="border:1px solid #ddd;border-radius:10px;padding:30px 20px;margin:30px 0;background:#fafafa;box-shadow:0 2px 4px rgba(0,0,0,.05);">
 <div style="max-width:1200px;margin:0 auto;">
@@ -34,9 +48,16 @@ It bridges cognitive science and industrial practice — drawing from Mica R. En
 <div style="border:1px solid #ddd;border-radius:10px;padding:30px 20px;margin:30px 0;background:#fafafa;box-shadow:0 2px 4px rgba(0,0,0,.05);">
 <div style="max-width:1200px;margin:0 auto;">
 <h3>How It Works</h3>
-<p style="max-width:none;">The Clear Picture SA Framework documents <strong>Situation Awareness (SA)</strong> principles that are applicable to industrial visualization use cases.</p>
-<p style="max-width:none;">It offers <strong>designs and prototype dashboards</strong> that demonstrate how these principles can be expressed in practice — while encouraging collaboration and shared learning between <strong>vendors, integrators, and designers</strong>.</p>
-<p style="max-width:none;">This approach helps turn cognitive research into practical design strategies for clearer, more effective industrial displays.</p>
+<p style="max-width:none;">
+The Clear Picture SA Framework documents <strong>Situation Awareness (SA)</strong> principles that are applicable to industrial visualization use cases.
+</p>
+<p style="max-width:none;">
+It offers <strong>designs and prototype dashboards</strong> that demonstrate how these principles can be expressed in practice —
+while encouraging collaboration and shared learning between <strong>vendors, integrators, and designers</strong>.
+</p>
+<p style="max-width:none;">
+This approach helps turn cognitive research into practical design strategies for clearer, more effective industrial displays.
+</p>
 </div>
 </div>
 
@@ -50,8 +71,7 @@ It bridges cognitive science and industrial practice — drawing from Mica R. En
 <li><a href="implemented-designs/implementeddesigns">Implemented Designs</a> — View real-world dashboard examples created for industrial use, applying SA concepts in practice.</li>
 <li><a href="sa-principles/didyouknow">Did You Know…</a> — Short, research-backed insights that translate Situation Awareness concepts into practical dashboard design guidance.</li>
 <li><a href="sa-principles/dailymomentssa">Daily Moments of SA</a> — Discover everyday analogies that make SA principles clear and relatable.</li>
-<li><a href="design-approach/lets-explore-your-dashboard">Let’s Explore Your Dashboard</a> — Participate in a collaborative review to uncover strengths and opportunities in your existing displays.</li>
-<!-- <li><a href="future-directions/index">Future Directions</a> — Explore upcoming ideas, including physical and contextual awareness displays.</li> -->
+<li><a href="platform-support/sa-vendor-listing">SA Vendor Listing</a> — See which visualization platforms are used in the framework to demonstrate Situation Awareness concepts and design patterns.</li>
 </ul>
 </div>
 </div>

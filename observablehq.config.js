@@ -23,7 +23,8 @@ export default {
         { name: "Overview", path: "sa-design-patterns/index" },
         { name: "User-Driven & Flexibility", path: "sa-design-patterns/ds1" },
         { name: "High-Level & Drill-Down", path: "sa-design-patterns/ds2" },
-        { name: "Multi-Asset Overview", path: "sa-design-patterns/ds3" }
+        { name: "Multi-Asset Overview", path: "sa-design-patterns/ds3" },
+        { name: "Embedded Context", path: "sa-design-patterns/ds4" }
       ]
     },
   { name: "Implemented Designs", path: "implemented-designs/implementeddesigns" },
@@ -36,7 +37,7 @@ export default {
       name: "Approach",
       pages: [
         { name: "Overview", path: "design-approach/introduction" },
-        { name: "Let’s Explore Your Dashboard", path: "design-approach/lets-explore-your-dashboard" },
+        //{ name: "SA-Tools Design Services", path: "design-approach/sa-tools-design-services" },
         //{ name: "Vendor Participation & Feedback", path: "design-approach/vendor-participation" }
       ]
     },
