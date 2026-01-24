@@ -36,6 +36,7 @@
 | [User-Driven & Flexibility](../sa-design-patterns/ds1) | ✅ | ➖ | ➖ |
 | [High-Level & Drill-Down](../sa-design-patterns/ds2) | ✅ | ➖ | ➖ |
 | [Multi-Asset Overview](../sa-design-patterns/ds3) | ➖ | ➖ | ✅ |
+| [Embedded Context](../sa-design-patterns/ds4) | ✅ | ➖ | ➖ |
 
 <div style="font-size:0.85em;margin-top:15px;max-width:none;">
 <strong>Notes:</strong><br>

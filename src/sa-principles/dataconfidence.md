@@ -121,6 +121,14 @@
     <tr><td><strong>Version Used</strong></td><td>10.0.1.464</td></tr>
   </table>
 
+  <div style="display:flex;flex-direction:column;align-items:center;margin-top:30px;">
+    <img src="../images/uncertainty_frameworx_1.PNG" width="100%" style="margin-bottom:30px;">
+    <img src="../images/uncertainty_frameworx_2.PNG" width="100%" style="margin-bottom:30px;">
+    <img src="../images/uncertainty_frameworx_3.PNG" width="100%" style="margin-bottom:30px;">
+    <img src="../images/uncertainty_frameworx_4.PNG" width="70%" style="margin-bottom:30px;">
+    <img src="../images/uncertainty_frameworx_5.PNG" width="70%" style="margin-bottom:30px;">
+  </div>
+
 </div>
 </div>
 

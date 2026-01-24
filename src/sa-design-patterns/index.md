@@ -4,7 +4,7 @@
 <h1 style="margin-bottom:20px;">SA Design Patterns</h1>
 <p style="max-width:none;">
 Reusable visualization strategies that combine multiple Situation Awareness (SA) principles into cohesive, real-world dashboard designs.
-Adapted from Endsley & Jones’ concept of <em>Design Schemas</em> in <em>Designing for Situation Awareness</em>, these patterns translate cognitive theory into practical, repeatable display structures for industrial operations.
+Adapted from Endsley &amp; Jones’ concept of <em>Design Schemas</em> in <em>Designing for Situation Awareness</em>, these patterns translate cognitive theory into practical, repeatable display structures for industrial operations.
 </p>
 </div>
 </div>
@@ -15,12 +15,12 @@ Adapted from Endsley & Jones’ concept of <em>Design Schemas</em> in <em>Design
 <h3 style="margin-bottom:20px;">Why SA Design Patterns Matter</h3>
 
 <p style="max-width:none;">
-SA Design Patterns are <strong>recurrent forms of layout, interaction, and information flow</strong> that embody effective ways to support perception, comprehension, and projection. 
+SA Design Patterns are <strong>recurrent forms of layout, interaction, and information organization</strong> that embody effective ways to support perception, comprehension, and projection.
 They offer designers tested, repeatable solutions that reduce cognitive load while improving the operator’s ability to extract meaning from complex, dynamic information.
 </p>
 
 <p style="max-width:none;">
-In environments with <strong>large volumes of time-sensitive operational data</strong>, these patterns provide structured ways to keep users oriented, informed, and in control — even as conditions shift rapidly. 
+In environments with <strong>large volumes of time-sensitive operational data</strong>, these patterns provide structured ways to keep users oriented, informed, and in control — even as conditions shift rapidly.
 They distill proven design logic into usable building blocks for constructing high-clarity, goal-aligned displays.
 </p>
 
@@ -41,7 +41,7 @@ These prototypes illustrate not a specific software tool, but a <strong>method o
 </p>
 
 <p style="max-width:none;">
-Demonstrations are developed using multiple platforms; however, the design logic behind the patterns remains <strong>platform-agnostic</strong>.  
+Demonstrations are developed using multiple platforms; however, the design logic behind the patterns remains <strong>platform-agnostic</strong>.
 Each pattern highlights how SA principles can be expressed across various visualization environments — including PI Vision, DCS HMIs, enterprise dashboards, or custom applications.
 </p>
 
@@ -59,14 +59,14 @@ Each pattern highlights how SA principles can be expressed across various visual
 <ul style="list-style:none;padding-left:0;max-width:none;">
 
 <li style="margin-bottom:18px;">
-<a href="ds1" style="font-weight:500;">User-Driven & Flexible Displays</a><br>
+<a href="ds1" style="font-weight:500;">User-Driven &amp; Flexible Displays</a><br>
 <span style="font-style:italic;font-size:.9em;color:#666;">
 Keep users in control while displays adapt to changing goals and priorities without breaking situational continuity.
 </span>
 </li>
 
 <li style="margin-bottom:18px;">
-<a href="ds2" style="font-weight:500;">High-Level Overview & Drill-Down</a><br>
+<a href="ds2" style="font-weight:500;">High-Level Overview &amp; Drill-Down</a><br>
 <span style="font-style:italic;font-size:.9em;color:#666;">
 Maintain a continuous big-picture view while allowing detail on demand — linking global awareness with focused context.
 </span>
@@ -76,6 +76,13 @@ Maintain a continuous big-picture view while allowing detail on demand — linki
 <a href="ds3" style="font-weight:500;">Multi-Asset Overview</a><br>
 <span style="font-style:italic;font-size:.9em;color:#666;">
 A single-screen comparative layout for rapidly scanning, comparing, and assessing the state of multiple assets at once.
+</span>
+</li>
+
+<li style="margin-bottom:18px;">
+<a href="ds4" style="font-weight:500;">Embedded Context</a><br>
+<span style="font-style:italic;font-size:.9em;color:#666;">
+Embed process state, events, and diagnostic meaning directly into primary displays so critical relationships are perceived immediately, without mental reconstruction.
 </span>
 </li>
 
