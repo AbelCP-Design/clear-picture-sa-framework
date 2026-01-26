@@ -62,6 +62,10 @@ Operators view a high-level map of the system, while detail panes (trends, alarm
   Your browser does not support the video tag.
 </video>
 
+<p style="font-size:0.75em; color:#777; margin:0; padding-top:4px; margin-bottom:1px; line-height:1.2; text-align:right;">
+  <em>Silent demo — visuals only</em>
+</p>
+
 <h4 style="margin-top:25px;">📷 Dashboard Views</h4>
 <ul style="list-style:none;padding-left:0;max-width:none;">
   <li><strong>Overview:</strong> System-wide state always visible. This supports global Situation Awareness.<br>
