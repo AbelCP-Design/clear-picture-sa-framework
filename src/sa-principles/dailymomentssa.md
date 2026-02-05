@@ -222,7 +222,7 @@
 <div style="text-align:center; margin-top:0;">
 
   <figure style="width:85%; margin:0 auto; text-align:center;">
-    <img src="../images/samoments_sliding_ticker_panel_1.png" alt="Sliding ticker panel showing tracked symbols" style="display:block; width:100%; height:auto; margin:0 auto;" />
+    <img src="../images/samoments_sliding_ticker_panel_1.PNG" alt="Sliding ticker panel showing tracked symbols" style="display:block; width:100%; height:auto; margin:0 auto;" />
     <figcaption style="font-size:0.75em; color:#999; margin-top:6px">
       Image source:
       <a href="https://www.nasdaq.com/" target="_blank" style="color:#999; text-decoration: underline;">Nasdaq website</a> (author screenshot).
@@ -230,7 +230,7 @@
   </figure>
 
   <figure style="width:85%; margin:20px auto 0 auto; text-align:center;">
-    <img src="../images/samoments_sliding_ticker_panel_2.png" alt="Sliding ticker panel collapsed state" style="display:block; width:100%; height:auto; margin:0 auto;" />
+    <img src="../images/samoments_sliding_ticker_panel_2.PNG" alt="Sliding ticker panel collapsed state" style="display:block; width:100%; height:auto; margin:0 auto;" />
     <figcaption style="font-size:0.75em; color:#999; margin-top:6px">
       Image: Screenshot showing collapsed panel.
     </figcaption>
