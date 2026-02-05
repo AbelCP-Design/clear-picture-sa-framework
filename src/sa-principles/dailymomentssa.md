@@ -205,6 +205,52 @@
 </div>
 
 
+<!-- Sliding Ticker Panel Card -->
+<div id="card-sliding-ticker-panel" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <span id="sec-sliding-ticker-panel" style="position: relative; top: -80px;"></span>
+  <h3 style="margin-bottom: 15px;">
+    <a href="#sec-sliding-ticker-panel" style="text-decoration: none; color: inherit;">📈 “The Sliding Ticker Panel”</a>
+  </h3>
+
+  <p><strong>Principle:</strong> Support Global SA – Maintain awareness while working in detail</p>
+
+  <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    Some finance websites include a slide-out panel that tracks selected symbols while users explore deeper pages.
+    This simple pattern keeps a <strong>high-level overview available</strong> without interrupting focused tasks.
+  </p>
+
+<div style="text-align:center; margin-top:0;">
+
+  <figure style="width:85%; margin:0 auto; text-align:center;">
+    <img src="../images/samoments_sliding_ticker_panel_1.png" alt="Sliding ticker panel showing tracked symbols" style="display:block; width:100%; height:auto; margin:0 auto;" />
+    <figcaption style="font-size:0.75em; color:#999; margin-top:6px">
+      Image source:
+      <a href="https://www.nasdaq.com/" target="_blank" style="color:#999; text-decoration: underline;">Nasdaq website</a> (author screenshot).
+    </figcaption>
+  </figure>
+
+  <figure style="width:85%; margin:20px auto 0 auto; text-align:center;">
+    <img src="../images/samoments_sliding_ticker_panel_2.png" alt="Sliding ticker panel collapsed state" style="display:block; width:100%; height:auto; margin:0 auto;" />
+    <figcaption style="font-size:0.75em; color:#999; margin-top:6px">
+      Image: Screenshot showing collapsed panel.
+    </figcaption>
+  </figure>
+
+</div>
+
+  <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    This design helps prevent <strong>attentional tunneling</strong>. When users focus on one screen, scanning often stops.
+    A persistent side panel supports quick “glance checks” that keep awareness current across the broader situation.
+  </p>
+
+  <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    <strong>→ Imagine if operational dashboards offered the same glanceable overview — helping users stay aware of system changes while concentrating on specific tasks.</strong>
+  </p>
+</div>
+
+
+
+
 
 </div>
 </div>
