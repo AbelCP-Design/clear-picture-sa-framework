@@ -248,6 +248,41 @@
   </p>
 </div>
 
+<!-- Embedded Information in Context Card -->
+<div id="card-embedded-information-in-context" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <span id="sec-embedded-information-in-context" style="position: relative; top: -80px;"></span>
+  <h3 style="margin-bottom: 15px;">
+    <a href="#sec-embedded-information-in-context" style="text-decoration: none; color: inherit;">🏎️ “Information Where It Happens”</a>
+  </h3>
+  <p><strong>Principle:</strong> Embed Supporting Information in Context</p>
+
+  <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    In high-performance driving, the driver should not have to scan separate displays to know when action is needed.
+    As engine RPM rises, shift lights illuminate directly on the steering wheel — right where attention is already centered.<br>
+    <span style="display:block; height:7.5px;"></span>
+    The cue is embedded at the point of use, helping the driver instantly perceive <strong>what is happening, when to act, and why it matters</strong>.
+  </p>
+
+  <div style="text-align:center; margin-top:0;">
+    <figure style="width:55%; margin:0 auto; text-align:center;">
+      <img src="../images/samoments_embededRPM_Ferrari.PNG" alt="Ferrari steering wheel showing embedded RPM shift lights in context while driving" style="display:block; width:100%; height:auto; margin:0 auto;" />
+      <figcaption style="font-size:0.75em; color:#999; margin-top:6px;">
+  Image source:
+  <a href="https://www.linkedin.com/posts/ferrari_ferrarif80-ferrarisupercars-ferrari-ugcPost-7425233918234218496-HuXx" target="_blank" style="color:#999; text-decoration: underline;">Ferrari LinkedIn post</a>
+</figcaption>
+    </figure>
+  </div>
+
+  <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    This is a simple but powerful SA pattern. Instead of forcing the user to mentally reconstruct relationships from separate indicators,
+    the display places meaning <strong>where the action occurs</strong>. That reduces cognitive effort and supports faster, more confident response.
+  </p>
+
+  <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    <strong>→ Imagine if process dashboards did the same: embedding events, limits, and diagnostic meaning directly into the primary view, so operators can immediately see what happened, when it happened, and why it matters.</strong>
+  </p>
+</div>
+
 
 
 
