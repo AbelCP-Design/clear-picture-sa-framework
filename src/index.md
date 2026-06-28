@@ -69,7 +69,7 @@ This approach helps turn cognitive research into practical design strategies for
 <li><a href="sa-principles/index">SA Concepts</a> — Explore the core concepts that form the foundation of Situation Awareness–oriented design in our work.</li>
 <li><a href="sa-design-patterns/index">SA Design Patterns</a> — See how principles combine into higher-level visualization strategies and techniques.</li>
 <li><a href="implemented-designs/implementeddesigns">Implemented Designs</a> — View real-world dashboard examples created for industrial use, applying SA concepts in practice.</li>
-<li><a href="sa-principles/didyouknow">Did You Know…</a> — Short, research-backed insights that translate Situation Awareness concepts into practical dashboard design guidance.</li>
+<li><a href="sa-principles/sabits">SA Bits</a> — Short, research-backed insights that translate Situation Awareness concepts into practical dashboard design guidance.</li>
 <li><a href="sa-principles/dailymomentssa">Daily Moments of SA</a> — Discover everyday analogies that make SA principles clear and relatable.</li>
 <li><a href="platform-support/sa-vendor-listing">SA Vendor Listing</a> — See which visualization platforms are used in the framework to demonstrate Situation Awareness concepts and design patterns.</li>
 </ul>
