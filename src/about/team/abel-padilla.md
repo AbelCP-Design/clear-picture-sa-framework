@@ -5,7 +5,7 @@
   </div>
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <h3 style="margin-bottom: 15px;">Industrial Experience</h3>
 
   Abel brings over 20 years of industrial data experience across multiple sectors, including:
@@ -34,15 +34,15 @@
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
   <h3 style="margin-bottom: 15px;">Personal Notes</h3>
 
+  A Taoist proverb reads: **"Governing a large empire is like frying a small fish"**. Abel believes that what's expressed in this proverb applies to designing an industrial dashboard, as it demands full attention and attentive care, just like frying a fish!
+  
+  
   Outside of his technical work, Abel enjoys:
-
   <ul>
     <li>Mexican Food</li>
     <li>Cycling and walking in nature</li>
-    <li>Exploring design and visual storytelling</li>
-    <li>Interest in Wabi-Sabi aesthetic</li>
-    <li>Spending time in coffee shops</li>
+    <li>Exploring design and visual data sensemaking</li>
+    <li>Exploring new concepts</li>
   </ul>
-
-  Abel believes that thoughtful design can elevate even highly technical environments, bringing clarity, confidence, and peace of mind to industrial teams and operators.
+  
 </div>
