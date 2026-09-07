@@ -111,7 +111,7 @@
   </div>
 
   <p style="margin-top: 15px; margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
-    <em>Why it matters:</em> Not all displayed information is equally reliable.Encoding certainty visually can help users distinguish information they can place greater confidence in without requiring them to interpret an additional numeric probability or confidence value.
+    <em>Why it matters:</em> Not all displayed information is equally reliable. Encoding certainty visually can help users distinguish information they can place greater confidence in without requiring them to interpret an additional numeric probability or confidence value.
   </p>
 
   <p style="margin-top: 12px; margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
