@@ -41,8 +41,8 @@
   <ul>
     <li>Mexican Food</li>
     <li>Cycling and walking in nature</li>
-    <li>Exploring design and visual data sensemaking</li>
-    <li>Exploring new concepts</li>
+    <li>Reading</li>
+    <li>Art</li>
   </ul>
   
 </div>
