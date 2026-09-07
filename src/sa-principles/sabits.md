@@ -32,7 +32,9 @@
   <div style="text-align:center; margin-top:0;">
     <figure style="width:85%; margin:0 auto; text-align:center;">
       <img src="../images/didyouknow_1.PNG" alt="Vertical gauge showing pressure in priority 1 alarm state as well as alarm duration" style="display:block; width:15%; height:auto; margin:0 auto;" />
-      <figcaption style="font-size:0.75em; color:#999; margin-top:6px;">Vertical gauge showing pressure in priority 1 alarm state as well as alarm duration</figcaption>
+      <figcaption style="font-size:0.75em; color:#999; margin-top:6px;">
+        Vertical gauge showing pressure in priority 1 alarm state as well as alarm duration
+      </figcaption>
     </figure>
   </div>
 
@@ -79,6 +81,42 @@
   <p style="margin-top: 12px; margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
     <span style="color:#777; font-size: 0.85em; display:block; margin-top:6px;">
       <em>Reference:</em> Bolstad &amp; Endsley (1999a); Endsley &amp; Jones
+    </span>
+  </p>
+</div>
+
+<!-- Certainty / Data Salience Card -->
+<div id="card-certainty-salience" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <span id="sec-certainty-salience" style="position: relative; top: -80px;"></span>
+
+  <h3 style="margin-bottom: 15px;">
+    <a href="#sec-certainty-salience" style="text-decoration: none; color: inherit;">🎯 Visual Salience Can Communicate Certainty</a>
+  </h3>
+
+  <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    <strong>SA Bit:</strong> Information presented with greater visual salience tends to be perceived as more certain. Darker saturation, lower transparency, and denser object fills can intuitively communicate higher certainty.
+  </p>
+
+  <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    <strong>Design takeaway:</strong> When information has varying levels of certainty, consider varying its visual salience accordingly—make more certain information visually stronger and less certain information visually weaker.
+  </p>
+
+  <div style="text-align:center; margin-top:0;">
+    <figure style="width:100%; margin:0 auto; text-align:center;">
+      <img src="../images/certainty_sabit.png" alt="Examples showing how visual salience can communicate different levels of certainty for displayed values and alerts" style="display:block; width:75%; height:auto; margin:0 auto;" />
+      <figcaption style="font-size:0.75em; color:#999; margin-top:6px;">
+        Examples of using visual salience to distinguish higher- and lower-certainty information
+      </figcaption>
+    </figure>
+  </div>
+
+  <p style="margin-top: 15px; margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    <em>Why it matters:</em> Not all displayed information is equally reliable. Encoding certainty visually can help users distinguish information they can place greater confidence in without requiring them to interpret an additional numeric probability or confidence value.
+  </p>
+
+  <p style="margin-top: 12px; margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    <span style="color:#777; font-size: 0.85em; display:block; margin-top:6px;">
+      <em>Reference:</em> Endsley &amp; Jones, Principle 11: <em>Use Data Salience in Support of Certainty</em>
     </span>
   </p>
 </div>
