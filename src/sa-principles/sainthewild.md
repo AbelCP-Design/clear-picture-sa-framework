@@ -283,7 +283,7 @@
 
   <div style="text-align:center; margin-top:0;">
     <figure style="width:90%; margin:0 auto; text-align:center;">
-      <img src="../images/samoments_aircraft_cockpit_sidepanel.PNG" alt="Airhart aircraft cockpit interface annotated to show the main workspace and persistent Situation Awareness side panel" style="display:block; width:100%; height:auto; margin:0 auto;" />
+      <img src="../images/samoments_aircraft_cockpit_sidepanel.png" alt="Airhart aircraft cockpit interface annotated to show the main workspace and persistent Situation Awareness side panel" style="display:block; width:100%; height:auto; margin:0 auto;" />
       <figcaption style="font-size:0.75em; color:#999; margin-top:6px;">
         Image: Author-annotated screenshot from
         <a href="https://www.youtube.com/watch?v=_PT0HmN-hf4" target="_blank" style="color:#999; text-decoration: underline;">“This $49,900 cockpit could change aviation forever”</a>,
