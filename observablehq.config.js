@@ -30,7 +30,7 @@ export default {
   { name: "Implemented Designs", path: "implemented-designs/implementeddesigns" },
   { name: "SA Enemies", path: "others/saenemies" },
   { name: "SA Bits", path: "sa-principles/sabits" },
-  { name: "Daily Moments of SA", path: "sa-principles/dailymomentssa" },
+  { name: "SA in the Wild", path: "sa-principles/sainthewild" },
   { name: "SA Vendor Listing", path: "platform-support/sa-vendor-listing" },
   {
       name: "Approach",
