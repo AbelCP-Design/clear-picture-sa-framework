@@ -304,6 +304,48 @@
     <strong>→ Imagine if industrial dashboards followed the same approach: allowing users to move between tasks and detailed views while keeping critical, cross-goal information continuously in sight.</strong>
   </p>
 </div>
+<!-- Information Persistence by Goal Card -->
+<div id="card-information-persistence-by-goal" style="border: 1px solid #ddd; border-radius: 10px; padding: 30px 20px; margin: 30px 0; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <span id="sec-information-persistence-by-goal" style="position: relative; top: -80px;"></span>
+
+  <h3 style="margin-bottom: 15px;">
+    <a href="#sec-information-persistence-by-goal" style="text-decoration: none; color: inherit;">🚗 “What Deserves to Stay in View?”</a>
+  </h3>
+
+  <p><strong>Principle:</strong> Match Information Persistence and Prominence to the User’s Goals</p>
+
+  <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    A car’s instrument cluster provides a simple example of how information can be prioritized according to its role in supporting the user’s primary goal.
+  </p>
+
+  <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    Information directly supporting the driving task — such as <strong>speed, engine RPM, fuel level, and engine temperature</strong> — remains continuously visible. Other useful information, such as average fuel economy, range, and compass direction, shares a smaller display area and can be accessed one item at a time.
+  </p>
+
+  <div style="text-align:center; margin-top:0;">
+  <figure style="width:90%; margin:0 auto; text-align:center;">
+  <img src="../images/samoments_mazda_instrument_cluster.png" alt="Mazda instrument cluster annotated to distinguish continuously visible information supporting the primary driving goal from supporting information available on demand" style="display:block; width:100%; height:auto; margin:0 auto;" />
+  <figcaption style="font-size:0.75em; color:#999; margin-top:6px;">
+  Image: Author’s own photograph and annotation.
+  </figcaption>
+  </figure>
+  </div>
+
+  <p style="margin-top: 15px; margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    Notice that persistence is <strong>not determined simply by how quickly information changes</strong>. Speed and RPM can change rapidly, while fuel level and engine temperature usually change much more slowly. Yet all remain visible because they contribute to the driver’s ongoing awareness of the vehicle while driving.
+  </p>
+
+  <p style="margin-bottom: 15px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    The smaller display area creates another level in the information hierarchy. Supporting information remains available when needed, but does not compete for the same display space or attention as information that supports the primary operational goal.
+  </p>
+
+  <p style="margin-bottom: 0px; max-width: 1000px; text-align: justify; text-justify: inter-word;">
+    <strong>→ Imagine if industrial dashboards followed the same approach: keeping information essential to the primary operational goal continuously visible, while organizing supporting information into smaller, on-demand areas that remain easy to access when needed.</strong>
+  </p>
+</div>
+
+
+
 
 
 </div>
